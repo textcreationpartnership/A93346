@@ -1,0 +1,2107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands pressures: or, The peoples complaint, humbly related, for information and for satisfaction of the grounds and causes thereof, and communicated to the inhabitants of England, in the severall cities and counties of the kingdome. Also, a short reprehension to factious, seditious sinners, with a Christian exhortation to reformation, to brotherly unitie and concord, and conscionable performance of covenant, by assurance of Gods blessing, a glorious deliverance, with establishment of truth and peace to the three kingdomes. / By George Smith, Gent. Imprimatur John Downame.</title>
+            <author>Smith, George, 1602 or 3-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93346</idno>
+            <idno type="STC">Wing S4035</idno>
+            <idno type="STC">Thomason E295_9</idno>
+            <idno type="STC">ESTC R200196</idno>
+            <idno type="EEBO-CITATION">99861001</idno>
+            <idno type="PROQUEST">99861001</idno>
+            <idno type="VID">113128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113128)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E295[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands pressures: or, The peoples complaint, humbly related, for information and for satisfaction of the grounds and causes thereof, and communicated to the inhabitants of England, in the severall cities and counties of the kingdome. Also, a short reprehension to factious, seditious sinners, with a Christian exhortation to reformation, to brotherly unitie and concord, and conscionable performance of covenant, by assurance of Gods blessing, a glorious deliverance, with establishment of truth and peace to the three kingdomes. / By George Smith, Gent. Imprimatur John Downame.</title>
+                  <author>Smith, George, 1602 or 3-1658.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>by E.P. for Lawrence Chapman, and are to be sold at his shop next doore to the Fountaine in the Strand.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church renewal --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113128:1" rendition="simple:additions"/>
+            <p>ENGLANDS
+PRESSVRES:
+OR, THE
+Peoples Complaint,
+Humbly Related, for Information and
+for Satisfaction of the grounds and cauſes there<g ref="char:EOLhyphen"/>of,
+and communicated to the Inhabitants of
+<hi>England,</hi> in the ſeverall Cities and Counties
+of the Kingdome. Alſo, a ſhort reprehenſion to Factious, Seditious
+Sinners, with a Chriſtian exhortation to Reformation, to
+Brotherly Unitie and concord, and conſcionable perfor<g ref="char:EOLhyphen"/>mance
+of Covenant, by aſſurance of Gods bleſſing, a glo<g ref="char:EOLhyphen"/>rious
+deliverance, with eſtabliſhment of truth
+and Peace to the three Kingdomes.</p>
+            <p>
+               <hi>By</hi> GEORGE SMITH. <hi>Gent.</hi>
+            </p>
+            <q>
+               <bibl>Eſay 5. 7.</bibl>
+               <p>He looked for judgement, and behold oppreſſion; for righte<g ref="char:EOLhyphen"/>ouſneſſe,
+and behold a cry.</p>
+            </q>
+            <q>
+               <bibl>Exod. 16. 7.</bibl>
+               <p>In the morning then ye ſhall ſee the glorie of the Lord, for
+he heareth your murmurings againſt the Lord: and what are we that
+ye murmur againſt us?</p>
+            </q>
+            <q>
+               <bibl>Phil. 2. 14.</bibl>
+               <p>Doe all things without murmurings, and disputings.</p>
+            </q>
+            <q>
+               <bibl>1 Cor. 14. 33.</bibl>
+               <p>For God is not the author of confuſion, but of peace, in all
+the Churches of the Saints.</p>
+            </q>
+            <q>
+               <bibl>Jer. 11. 3.</bibl>
+               <p>Curſed be the man that obeyeth not the words of this Covenant.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed> John Downame.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at London by <hi>E. P.</hi> for <hi>Lawrence Chapman,</hi> and are to be ſold
+at his Shop next doore to the Fountaine in the <hi>Strand.</hi> 1645.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:113128:2"/>
+            <pb facs="tcp:113128:2"/>
+            <head>The Authors Apologie to the
+READER.</head>
+            <p>RIght Honourable, Honourable, Right Worſhipfull, &amp; others, &amp;c.
+When I had ſeriouſly conſidered what great thing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God Almigh<g ref="char:EOLhyphen"/>tie
+hath done for us, &amp; for our Nation, in giving us a Parliament
+when we were almoſt paſt hope. &amp; which is more, eſtabliſhing that Par<g ref="char:EOLhyphen"/>liament,
+(as it were) by infatuating the Anti-Parliament Counſell;
+and againſt ſo ſtrong oppoſition, to ſelect ſo manie Noble, Wiſe,
+able men, not onely grave <hi>Solons</hi> and <hi>Lycurguſes,</hi> (good Common-Wealths
+men) but holy Religious men:<note n="a" place="margin">Nehe. 13.</note> 
+               <hi>Nehemiahs</hi> and <hi>Ezra's,</hi>
+               <note n="b" place="margin">Ezra 103. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ezra. 9. 1. Nehe. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 31.</note> Zealous Princes of the people, that have ſet themſelves <hi>to ſeparate
+from Iſrael all the mixed multitudes,</hi> and according to the Law of
+God, reforme the evils in the Church and State;<note n="c" place="margin">Ezra 10. 11.</note> 
+               <hi>To make con<g ref="char:EOLhyphen"/>feſſion
+to the Lord God of our fathers, and to doe his pleaſure;</hi> to
+ſet up Ieſus Chriſt and his Goſpel, in holineſſe, and in paritie.</p>
+            <p>As alſo, Gods great mercie in delivering this Parliament from the
+manie ſecret, and dangerous. Plots of the Enemie: and not onely ſo, but
+of late giving them dayly ſucceſſe and Victories againſt their Enemies.
+And when I reflected in my thoughts upon our evill requitall of God
+for all theſe mercies, not making returne<note n="d" place="margin">2 Chr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 25.</note> 
+               <hi>according to the bene<g ref="char:EOLhyphen"/>fit
+done unto us</hi> but ſuffering our hearts to be lifted up, &amp; everie man
+to ſeeke himſelfe, ſtill adding new ſins to old tranſgreſſions; I could not
+but unmannerly crowd in, abandoning all feare, or flatterie, to give in<g ref="char:EOLhyphen"/>formation
+of danger,<note n="e" place="margin">Joh. 5. 14.</note> 
+               <hi>leſt a worſe thing may befall us.</hi>
+            </p>
+            <p>I have no ſelfe-end, nor private reſpect; God and my owne heart
+knowes it; my aime is onely Gods glorie and the Kingdomes ſafetie,
+both which I am bound in conſcience to endeavour.</p>
+            <p>First, I conſider it is the end of my Creation.</p>
+            <p>
+               <hi>Secondly, God hath expreſſely commanded it,</hi> Levit. 19. 17. Thou
+ſhalt in any wiſe rebuke thy neighbour, and not ſuffer ſinne upon
+him.</p>
+            <p>
+               <pb facs="tcp:113128:3"/>
+Thirdly, the State requires it <hi>by their ſolemne Covenant,</hi> which
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not violate.</p>
+            <p>Fourthly, the corruption of the times calls for it; <hi>It is a time of Re<g ref="char:EOLhyphen"/>formation,</hi>
+but ſinne is not reformed.</p>
+            <p>
+               <hi>Fifthly, holy example begets encouragement, as in the time of righ<g ref="char:EOLhyphen"/>teous</hi>
+               <note n="f" place="margin">Neh. 5. 1.</note> Nehemiah, <hi>and holy</hi> Ezra, there was a great cry of the
+people, and of their wives, againſt their brethren the Jewes:
+<hi>which when</hi> Nehemiah <hi>heard of, he rebuked them that were guiltie,
+ſaying,</hi>
+               <note n="g" place="margin">verſ. 8.</note> We after our abilitie have redeemed our brethren the
+Jewes, which were ſold to the heathen, and will you even ſell your
+brethren? Or ſhall they be ſold to us, &amp;c?</p>
+            <p>In all this I have but done my dutie; ſinne is the accuſer (not I)
+from which my care ſhall be to cleanſe my heart and hands: guilt is the
+defamer (I defame no man) which I ſeeke to prevent; but I conſident<g ref="char:EOLhyphen"/>ly
+beleeve, that if the cryes of the people ſhall come juſtified to the eares
+of our juſt <hi>Zerubbabe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> or Religious <hi>Nehemiahs,</hi> they will remove
+the cauſe. This is all my end, this is my dayly prayer, and this will be
+the Kingdomes happineſſe; to which I am</p>
+            <closer>
+               <dateline>From my Lodging,
+<hi>Fleet-ſtreet London,</hi>
+                  <date>this 31 of <hi>Iuly,</hi> 1645.</date>
+               </dateline>
+               <signed>A poore wel-wiſhing Servant, GEORGE SMITH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113128:3"/>
+            <head>Englands Preſsures.
+OR,
+The peoples Complaint.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving by the providence of God Almightie, and
+in his preſence, in obedience to the Order and au<g ref="char:EOLhyphen"/>thoritie
+of both Houſes of Parliament,<note place="margin">The Introducti<g ref="char:EOLhyphen"/>on.</note> taken the
+Solemne League and Covenant, for Reformation
+and defence of Religion, the honour and happi<g ref="char:EOLhyphen"/>neſſe
+of the King, and the Peace and ſafetie of the
+Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> I have (ſince my
+firſt and ſecond taking thereof) ſeriouſly, and ſeverall times conſi<g ref="char:EOLhyphen"/>dered
+my particular engagement thereby both to God and to men;
+and have therefore reſolved to diſcharge my conſcience and duty,
+to the uttermoſt of my abilitie, in ſo great and neceſſarie a Work.
+And to that end, at this time, I am bold in all humility to bring the
+generall cryes and complaints of the people to the eares of the
+ſage Senators, and Patriots of theſe times, the great Steers-men
+and Pilots to the Common-Weale of the three Kingdomes.</p>
+            <p>We uſe to ſay of Kings, that they heare by other mens eares,
+ſee by other mens eyes, and act by other mens hands. The ſame
+(I conceive) may be ſaid of great men and grand Councells: not
+that other men are wiſer then they, to teach or to inſtruct them
+in dutie, but to informe them what men doe and act, and leave
+the reſt to their wiſedomes: For, in our proverb we uſe to ſay,
+<hi>The ſtander by ſees more then the Gamſter;</hi>
+               <note place="margin">Poore mens in<g ref="char:EOLhyphen"/>formation not to be deſpiſed.</note> ſo the wandering eare
+and eye heares and ſees more then the fixed actor: <hi>Paul</hi> had
+not knowne the wicked conſpiracie of thoſe <hi>Jewes, who bound
+themſelves by an oath to kill him,</hi> if he had not received informati<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:113128:4"/>
+by a Young-man<note n="a" place="margin">Act. 23. 16</note> 
+               <hi>his Siſters ſon:</hi>
+               <note n="b" place="margin">2 King. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3<g ref="char:punc">▪</g> 4.</note> 
+               <hi>Naaman</hi> the <hi>Syrian</hi> had
+not known the Prophet <hi>Eliſha,</hi> if he had not been told of him by
+his ſervants, <hi>and they by a poore captive Maid;</hi> nor had<note n="c" place="margin">verſ. 13.</note> 
+               <hi>Naaman</hi>
+beene cured of his Leproſie, if he had not hearkned to the voyce
+of his ſervants: my ſelfe, a free borne man; a ſubject to the
+King, and ſervant to the great Councell of the Kingdome, pre<g ref="char:EOLhyphen"/>ſume
+(though uncalled) to diſcharge my conſcience to God, and
+my dutie to men; reſolving (as<note n="d" place="margin">Eſter 4. 16.</note> 
+               <hi>Eſter) If I periſh I periſh,</hi> I
+have alreadie caſt in my two mites into the treaſurie, and have yet
+one handfull of goats haire, which I freely bring to the building
+of Gods Tabernacle: Pilot nor Steerſ-man I am none, but ra<g ref="char:EOLhyphen"/>ther
+a deſpiſed one ſitting on the top of the maſt. If thence I may
+diſcover and prevent a danger, I have my end, acceptance is my
+reward; however,<note n="e" place="margin">Eccle. 11. c.</note> 
+               <hi>I ſhall not with-hold to ſow my ſeed in the morn<g ref="char:EOLhyphen"/>ing
+and in the evening, but know not which ſhall proſper, this or that,
+or whether both ſhall be alike good.</hi>
+            </p>
+            <p>I know that all things in everie courſe are guided by divine
+providence,<note place="margin">God by provi<g ref="char:EOLhyphen"/>dence guideth all things.</note> nor can any thing be altered by humane power or
+wiſedome,<note n="f" place="margin">Eccle. 3. 14.</note> 
+               <hi>whatſoeevr God doth it ſhall be for ever;</hi> but I alſo
+know, that God hath appoynted the time and meanes, when, and
+how everie worke ſhall be eſtabliſhed; and my endeavour ſhall
+not be wanting as a meanes, in my place and calling to accompliſh
+Gods Worke; God had appoynted the <hi>Amorites</hi> to be deſtroyed,
+yet he had ſet a time, in which the meaſure of<note n="g" place="margin">Gen. 15. 16.</note> 
+               <hi>their iniquitie
+ſhould be made full:</hi> he had appoynted that <hi>Iſrael</hi> ſhould ſerve and
+be afflicted in <hi>Aegypt,</hi> but the time was ſet how long; and when
+that time was expired,<note n="h" place="margin">Exod. 12. 14.</note> 
+               <hi>even the ſelfe ſame day they were delive<g ref="char:EOLhyphen"/>red
+from their bondage:</hi> The meanes by which they were delive<g ref="char:EOLhyphen"/>red
+was alſo appoynted, and ſo ordered by the Almightie, and his
+ever-working providence, that their deliverance was ſo glorious,
+that manie <hi>Aegyptians,</hi> and of other nations then in <hi>Aegypt,</hi> ſee<g ref="char:EOLhyphen"/>ing
+the great and mightie workes of God in <hi>Aegypt,</hi> became
+<hi>Jewes,</hi> and joyned themſelves with the people of God; and a
+mixt multitude, ſaith the text,<note n="i" place="margin">Exod. 12. 38.</note> went up with them out of
+<hi>Aegypt.</hi>
+            </p>
+            <p>Now this mixt multitude did not joyne themſelves with the
+<hi>Iewes,</hi>
+               <note place="margin">Man of the world joyne themſelves with the godly for carnall re<g ref="char:EOLhyphen"/>spects.</note> in zeale to their Religion, nor in love to their God <hi>Ieho<g ref="char:EOLhyphen"/>vah;</hi>
+but for carnall reſpects, they ſeeing the wonders that God had
+wrought in <hi>Aegypt</hi> for his peoples deliverance, joyned themſelves
+<pb n="3" facs="tcp:113128:4"/>
+with the <hi>Iewes,</hi> in hope of outward ſafetie and proſperitie: there<g ref="char:EOLhyphen"/>fore
+as ſoone as they came into the wilderneſſe, and were but a
+little proved by hard travell, through a barren deſert, they grew
+diſcontented with their condition, and fell to murmur againſt
+God, and againſt <hi>Moſes:</hi> The<note n="k" place="margin">Numb. 11 4.</note> 
+               <hi>mixt multitude</hi> (ſaith <hi>Moſes)
+that were among the people fell a luſting;</hi> they luſted after carnall
+contents, &amp; deſpaired of Gods power and promiſe, ſaying, who ſhal
+give us fleſh to eate? As if they ſhould have ſaid, we ſhall dye,
+and be deſtroyed, and neither God, nor this <hi>Moſes,</hi> can provide
+for us, either againſt hunger, or the enemie: Therefore they look
+back to <hi>Aegypt,</hi> and ſay,<note n="l" place="margin">verſ. 5.</note> 
+               <hi>We remember the fiſh we did eate in
+Aegypt freely, the Cucumbers, the Melons, the Leekes, Onions,
+Garlicke,</hi>
+               <note place="margin">Evill exam<g ref="char:EOLhyphen"/>ples corrupt many.</note> 
+               <hi>&amp;c.</hi> Now by the example of this mixt multitude, theſe
+ingrate murmuters the <hi>Iſraelites</hi> were ſtirred up to murmur too,
+and joyned with this godleſſe multitude to mutinie againſt
+<hi>Moſes,</hi> and ſo procured a curſe upon themſelves in ſtead of a
+bleſſing.</p>
+            <p>Such mixt multitudes are joyned with the people of God at this
+day, and for the verie ſame ends and doe likewiſe cauſe murmu<g ref="char:EOLhyphen"/>ring
+&amp; mutinie againſt God, and againſt the Parliament, and holy
+Aſſemblie; both which God hath called together, and eſtabliſhed
+as he did <hi>Moſes,</hi> and <hi>Aaron,</hi> for the deliverance of his people from
+bondage.</p>
+            <p>But the railings of theſe mungrell mixt companie are but as
+the railings of<note n="m" place="margin">2 Sam. 16. 6 7.</note> 
+               <hi>Shimei,</hi> or like the murmurings of<note n="n" place="margin">Numb. 26. 2. 3.</note> 
+               <hi>Korah</hi>
+and his rebellious companie; nor is their condition much unlike
+his,<note n="o" place="margin">Marke 5. 3. 4.</note> 
+               <hi>whoſe dwelling is ſaid to be among the tombs:</hi> for they, like
+him, <hi>are poſſeſſed with uncleane ſpirits, nor can any man tame them,</hi>
+they ſpeake proud things, and<note n="p" place="margin">Pſal. 12. 3.</note> 
+               <hi>will have no Lord to rule over
+them;</hi> to whom I ſay no more;<note n="q" place="margin">Jud. 9.</note> 
+               <hi>b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Lord rebuke them.</hi>
+Theſe are in the gall of bitterneſſe,<note n="r" place="margin">Act. 8. 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>they run in the way of Baal<g ref="char:EOLhyphen"/>am
+for reward</hi> and ſhall periſh in the gain ſaying of<note n="s" place="margin">Jud 11. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>Korah.</hi>
+            </p>
+            <p>But beſides theſe wicked men,<note place="margin">The cryes and complaints of all good m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ought to be heard in all <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ust cauſes.</note> ſons of <hi>Belial,</hi> there are other
+complainers, more grievous, and more conſiderable; and theſe
+have filled mine eares from all places and parts of the Kingdome
+with cryes againſt oppreſſion, and hard task-maſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs ſet over
+them, whether it ariſeth from the evill example of thoſe
+ſons of <hi>Belial<g ref="char:punc">▪</g>
+               </hi> or from their owne luſts, or out of any ſenſible
+feeling of their owne ſenſe by unjuſt oppreſſion; or whether
+<pb n="4" facs="tcp:113128:5"/>
+from all theſe, I will not diſpute: But the complainings are like,
+as in the daye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Ely;</hi> when his ſons were wicked, and cauſed
+the people to<note n="t" place="margin">1 Sam. 2. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17.</note> 
+               <hi>abhorre the offerings of the Lord,</hi> and as in the time
+when the ſons of good <hi>Samuel</hi> judged <hi>Iſrael,</hi> and were<note n="u" place="margin">2 Sam. 8. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>given
+to Lucre, and tooke bribes to pervert judgement,</hi> and cauſed the peo<g ref="char:EOLhyphen"/>ple
+to ſinne <hi>in asking for a King;</hi> but that ſin in the people was
+pardoned.</p>
+            <p>The Complainers in our times are of all rankes,<note place="margin">Two ſorts of men that com<g ref="char:EOLhyphen"/>plaine.</note> callings, and
+degrees; I divide them all into two ſorts: they are either carnall
+men, ſuch as were <hi>Iſraelites</hi> by name<note n="w" place="margin">Rom. 9. 8.</note> 
+               <hi>according to the fleſh;</hi> or
+regenerate men, ſons<note n="x" place="margin">Luk. 23. 5<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>according to promiſe,</hi> ſuch as wait for the
+kingdom of God: For we know there have ever been two ſorts of
+men in the Church of God, good and bad; there were true and
+falſe <hi>Iſraelites,</hi> there are regenerate and unregenerate; the ex<g ref="char:EOLhyphen"/>amples
+of all times prove it: In the firſt age, there was a<note n="y" place="margin">Gen. 4.</note> 
+               <hi>Cain,</hi>
+as well as an <hi>Abel;</hi> In the next there was a<note n="z" place="margin">Gen. 9.</note> 
+               <hi>Cham,</hi> as well as a
+<hi>Shem;</hi> and afterward there was an<note n="a" place="margin">Gen. 22.</note> 
+               <hi>Iſmael,</hi> as well as an <hi>Iſaack;</hi>
+and an <hi>Eſau,</hi> as well as a <hi>Iacob;</hi> there was alſo a <hi>Saul,</hi> as well as a
+<hi>David;</hi> and among the Apoſtles, a <hi>Iudas,</hi> as wel as a <hi>Peter:</hi> &amp; in the
+Primitive times there was a<note n="b" place="margin">2 Tim. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Demas,</hi> and an <hi>Alexander,</hi> &amp;c.
+Sacred Scripture tells us, that<note n="c" place="margin">Rom. 9. 7.</note> 
+               <hi>the ſeed of Abraham are not all
+children;</hi> our Saviour Chriſt compares the Church to<note n="d" place="margin">Mat. 13. 30. 47.</note> 
+               <hi>a net
+caſt into the Sea,</hi> that gathereth of everie kind; and<note n="e" place="margin">Mat. 13. 12.</note> 
+               <hi>to a Field,
+in which growes Corne and Tares;</hi> to <hi>a threſhing floore, in which is
+wheat and Chaffe:</hi> There have beene, there are, and there ever
+will be in the Church Militant, good and bad; ſome<note n="f" place="margin">Joh. 2: 19.</note> 
+               <hi>in the
+Church that are not of the Church:</hi> they are not all<note n="g" place="margin">Rom. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6.</note> 
+               <hi>Iſrael,</hi> ſaith
+the Apoſtle, that are of <hi>Iſrael.</hi>
+            </p>
+            <p>Now theſe two ſorts of men are of different aff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions,<note place="margin">The different aimes and ends which men pro<g ref="char:EOLhyphen"/>pound to them<g ref="char:EOLhyphen"/>ſelves, cauſe differences.</note> and
+have different Aymes, of what ranke ſoever they be: for ſome are
+rich, ſome poore; ſome Noble, ſome Ignoble; ſome command,
+ſome are commanded; ſome Divines, ſome Lay-men: yet both
+theſe two ſorts of men looke for ſome enjoyment of the promiſe,
+onely they miſ-apply the promiſe of God: the carnall man applies
+it to his carnall ends; the regenerate man to ſpirituall ends; the
+one ſeekes happineſſe in this life, the other in the life to come;
+and drives at Gods glorie here, from whom he expects glorie
+hereafter: you ſhall ſee an example in <hi>Iacob</hi> and <hi>Eſau; Eſau,</hi> as a
+ſon, expected a bleſſing; but it was but a temporall bleſſing, and
+<pb n="5" facs="tcp:113128:5"/>
+this he earneſtly ſought, for<note n="h" place="margin">Heb. 12, 17.</note> 
+               <hi>it coſt him teares:</hi> It is evident he
+ſought but this temporall bleſſing, becauſe hee preferred his
+appetite to carnall things, above and before his birth-right,
+which was Sacred; and therefore is called<note n="i" place="margin">Heb. 12. 16.</note> 
+               <hi>prophane, for ſelling
+it;</hi> he counted the benefit of his birth-right to extend no further
+then to the things of this life: But <hi>Jacob</hi> waited for a future hap<g ref="char:EOLhyphen"/>pineſſe,
+and accounted the promiſe to himſelfe, and to his poſteri<g ref="char:EOLhyphen"/>tie,
+in a ſpirituall ſenſe: And therefore, when he had obtained the
+bleſſing, he forſooke all preſent rights, left all the temporall ſub<g ref="char:EOLhyphen"/>ſtance
+of his fathers houſe to his brother <hi>Eſau,</hi> and willingly caſt
+himſelfe upon Gods providence, reſting upon the promiſe, that
+God would be his God.</p>
+            <p>Thus it too ofen falleth out,<note place="margin">The ground of emulations.</note> that in Families, and Kingdomes,
+from theſe two different affections, and judgements, there ariſeth
+differences and diſſentions; and hence commeth great complaints,
+murmurings, and emulations among men, about the preſent diſ<g ref="char:EOLhyphen"/>poſing,
+and event of things: and becauſe they have different
+aimes, they uſe different meanes, to attaine thoſe ends; and ma<g ref="char:EOLhyphen"/>nie
+times indirect meanes are uſed by the one, and by the other, to
+accompliſh their deſire. Thus it was in <hi>Jacobs</hi> family (which was
+then the viſible Church) <hi>Eſau</hi> ſelleth his birth-right,<note place="margin">Examples of both ſorts.</note> and all the
+priviledges belonging to it, to ſatisfie his preſent appetite; <hi>Iacob</hi>
+waited for the future, and expected the promiſe to be made good
+in due time, <hi>for faith makes not haste;</hi> but by <hi>Rebeccahs</hi> counſell he
+was drawne to uſe indirect meanes to get it, for which they both
+ſmarted; for it was the cauſe of affliction to him, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to his mo<g ref="char:EOLhyphen"/>ther
+<note n="k" place="margin">Gen. 28. 5</note> 
+               <hi>Rebeccah,</hi> ſo much as baniſhment each from other, all the
+dayes of <hi>Rebeccahs</hi> life; yet divine providence ordered everie
+thing to the accompliſhing of the promiſe, as God ordered the
+envie of<note n="l" place="margin">Gen. 45. 7</note> 
+               <hi>Ioſephs</hi> brethren to their future good, and preſervati<g ref="char:EOLhyphen"/>on
+of their families.</p>
+            <p>You ſhall ſee, that as ſoone as <hi>Hazael</hi> heard the Prophet ſay,
+that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſhould be King over <hi>Syria;</hi>
+               <note n="m" place="margin">2 King. 8. 13.</note> 
+               <hi>Hazael</hi> preſently plots a<g ref="char:EOLhyphen"/>ny
+wicked meanes to attaine the Kingdome, and therefore mur<g ref="char:EOLhyphen"/>dered
+the King his maſter, that he might preſently enjoy it: ſo
+to ſatifie the covetous deſire of oppreſſing<note n="n" place="margin">1 King. 21 15.</note> 
+               <hi>Ahab,</hi> by <hi>Ieſabels</hi>
+counſell he poſſeſſed <hi>Naboths</hi> Vineyard by blood, and did it under
+pretence of holineſſe, and juſtice: becauſe men live more by ſenſe
+then by faith, they rather ſeeke carnall things then ſpirituall, and
+<pb n="6" facs="tcp:113128:6"/>
+uſe any indirect and wicked meanes to attaine their end. Hence it
+commeth that when God is breaking down what he hath built up,
+even this whole Land, and Kingdome; that now at this time,
+<note n="o" place="margin">Jer, 45. 5.</note> 
+               <hi>men ſeek great things for themſelves,</hi> although they have no aſſu<g ref="char:EOLhyphen"/>rance
+to have ſo much <hi>as their life for a prey.</hi>
+            </p>
+            <p>When Gods oppreſſings judgements are upon a Land and peo<g ref="char:EOLhyphen"/>ple
+for their oppreſſion,<note place="margin">To ſinne againſt Judgement is fearefull.</note> then for men to be oppreſſors argueth
+the verie height of obduracie; It is no other, but to<note n="p" place="margin">Deut. 29. 20.</note> 
+               <hi>adde
+drunkenneſſe to thirſt:</hi> ſurely, <hi>the anger of the Lord and his jealouſie
+ſhall ſmoake against ſuch men, and their names ſhall be blotted out from
+under heaven;</hi> But truely this is an evill prediction, and is a ſad
+complaint in theſe times eſpecially times of reformation, as wee
+all pretend to God; theſe complainers have cauſe to be pittied,
+and the complained have need to be puniſhed, or Gods hand will
+be ſtretched out ſtill.</p>
+            <p>Nor doe I ſay,<note place="margin">All complainers are not to be hear<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed to, nor all requeſts granted.</note> that all complainers in this kind are to be cheri<g ref="char:EOLhyphen"/>riſhed;
+for there are too many that complaine and murmur with<g ref="char:EOLhyphen"/>out
+juſt cauſe; like the <hi>Iraelites,</hi> they would have all the good that
+is promiſed, but would endure nothing for it, either in their per<g ref="char:EOLhyphen"/>ſons
+or purſes to procure the good they deſire: they will be at no
+labour nor coſt for Chriſt, but like the<note n="q" place="margin">Luk. 8. 37.</note> 
+               <hi>Gardarens</hi> will rather
+part with Chriſt, then their Swine; &amp; like the rebellious <hi>Iſraelites,</hi>
+cry out againſt God, againſt<note n="r" place="margin">Num. 14. 2.</note> 
+               <hi>Moſes</hi> and <hi>Aaron,</hi> and make
+themſelves captaines to goe before them back into <hi>Aegypt,</hi> to a
+bondage under which they lately cryed: becauſe they find a little
+difficultie in the way to the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <note n="s" place="margin">Num. 13. 31. 32.</note> 
+               <hi>Canaan,</hi> or becauſe they re<g ref="char:EOLhyphen"/>ceive
+diſcouragement by ſome <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eleeving Spyes that tell them
+of the ſons of <hi>Anak,</hi> Gyants in the way, which cannot be over<g ref="char:EOLhyphen"/>come;
+and will not beleeve<note n="t" place="margin">Num. 14. 10.</note> 
+               <hi>Moſes, Ioſhua,</hi> nor <hi>Caleb,</hi> princes
+of the people, that God Almightie is both able and faithfull to
+make good his promiſe to them; but moſt inexorable the rebelli<g ref="char:EOLhyphen"/>ous
+people cry out, <hi>Stone them with ſtones:</hi> what a fearefull condi<g ref="char:EOLhyphen"/>tion
+is this? and yet ſuch are ſome of our ſtubborne un-reforming
+<hi>Engliſh,</hi> in ſeverall Counties of this Kingdome, who ſtand Neu<g ref="char:EOLhyphen"/>ters,
+will be for neither ſide,<note place="margin">Unworthy acti<g ref="char:EOLhyphen"/>ons of Neuter Club-men.</note> and ſuffer their hearts to luſt after
+<hi>Aegypt,</hi> after Superſtition and Idolatrie: unworthy men, ſtupid,
+inſenſible of Gods diſpleaſure, or their owne miſerie. Oh that men
+would conſider what is written by <hi>Moſes</hi> of the <hi>Iſraelites,</hi> what
+was the effect of ſuch murmurings, and wilfull diſobedience!
+<pb n="7" facs="tcp:113128:6"/>
+               <note n="u" place="margin">Num. 14. 12.</note> 
+               <hi>God ſmote them with Pestilence,</hi> and they were for ever diſ-in<g ref="char:EOLhyphen"/>herited,
+<note n="w" place="margin">Heb. 12. 11.</note> 
+               <hi>God ſware in his wrath that they ſhould never enter into
+his rest.</hi>
+            </p>
+            <p>God hath done great things for us; he hath by a mightie hand
+brought us out of <hi>Aegypt,</hi> from our heavie burthens, and from the
+<hi>Babyloiniſh</hi> Idolatrie: we are now in the wilderneſſe, happineſſe
+and glorie is before us; God only proveth us by ſome little hard<g ref="char:EOLhyphen"/>ſhip
+by the way,<note place="margin">What the dutie is of all inferior men.</note> to humble us, that he may exalt us: Let us be
+thankfull to God, and let no murmuring be heard amonſt us a<g ref="char:EOLhyphen"/>gainſt
+men whom God hath made inſtruments for our good: If
+all things be not ſo well managed by men, as they ſhould be, pray
+to God to amend it, and to remove evill or negligent men from
+all publike imployment: Firſt, ſearch whether there be not ſome
+ſin in thy ſelfe, which thou cheriſheſt, that is the cauſe of the thing
+for which thou complaineſt: and caſt it from thee: then, Humbly
+Importune the Parliament to redreſſe the evils, and put things
+right; Judges know not who is wronged, till the complaint come
+before them; nor can they redreſſe the evill, till proved by two
+or three witneſſes: If we thus doe, we ſhall have no cauſe of any
+murmuring complaints; for the Parliament will ſurely do juſtice:
+<note n="x" place="margin">Rom. 13. 4.</note> 
+               <hi>They are the Miniſters of God to us, for our good, &amp;c.</hi>
+            </p>
+            <p>And know,<note place="margin">God is now a<g ref="char:EOLhyphen"/>bout to ſet up Jeſus Chriſt on his throns, and to eſtabliſh the puritie of Reli<g ref="char:EOLhyphen"/>gion.</note> that God is now about a greater worke for this
+Kingdome, and for the world of elect at this time, then only the
+ſetling of our temporall freedomes; for aſſuredly he will make
+Jeſus Chriſt much more glorious to the world then ever before;
+and his ordinances ſhall be ſet up in their puritie, the truth of Re<g ref="char:EOLhyphen"/>ligion
+ſhall be eſtabliſhed (not changed, as ſome ſimple Ignora<g ref="char:EOLhyphen"/>muſes
+report) The Parliament is not about to change any thing in
+Religion, onely to purge out the dregs of Antichriſtian doctrine,
+that Chriſt may be worſhipped in puritie, according to the will
+of God revealed in holy Scripture, and practiſed in the beſt refor<g ref="char:EOLhyphen"/>med
+Churches:<note place="margin">Gre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t wo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es mett with great oppoſitions.</note> The worke is great, and difficult; and we know,
+great workes have ever met with great oppoſitions, and much dif<g ref="char:EOLhyphen"/>ficulty;
+theſe are trying times;<note n="y" place="margin">Heb. 11. 36</note> God proves us now, whether
+we will follow Chriſt or Antichriſt; theſe are <hi>fyrie tryals,</hi> ſuch as
+the Apoſtle <hi>Peter</hi> ſpeaks of, which, he ſaith,<note n="z" place="margin">1 Pet. 4. 12</note> 
+               <hi>is to try you: When he
+hath tryed me,</hi>
+               <note n="a" place="margin">Job 23. 10.</note> ſaith <hi>Job, I ſhall come forth as gold:</hi>
+               <note n="b" place="margin">Jam. 1. 12.</note> 
+               <hi>Bleſſed is
+the man that endureth temptation; for when he is tryed, he ſhall receive
+the crowne of Life, which the Lord hath promiſed to them that love
+<pb n="8" facs="tcp:113128:7"/>
+him:</hi> If we will be bleſſed live muſt endure it, and endure it to the
+end; elſe there is no promiſe of bleſſedneſſe: he onely<note n="c" place="margin">Math. 10. 22.</note> 
+               <hi>that en<g ref="char:EOLhyphen"/>dureth
+to the end ſhall be ſaved.</hi>
+            </p>
+            <p>Now give me leave to adviſe,<note place="margin">A Caveat to take heed leſt we miſtake Chriſt.</note> and beſeech all men, of all ranks
+and degrees, to conſider well, and to take heed that none of us doe
+now reject Chriſt as the <hi>Iewes</hi> did: They looked for the perfor<g ref="char:EOLhyphen"/>mance
+of the promiſe, that the <hi>Meſſiah</hi> ſhould come: but becauſe
+they were ſtupid, and fancied that he ſhould come onely to reſtore
+their<note n="d" place="margin">Joh. 6. 15.</note> 
+               <hi>temporall Kingdome;</hi> they fayling of their expectation in
+that, rejected him when he came to eſtabliſh the Goſpel; &amp; for that
+ſin were rejected by Chriſt, as we know they yet are to this day.</p>
+            <p>It will be worth your conſideration to conſider, that becauſe
+they ſo much ſought their owne ſafetie, and doted upon a tempo<g ref="char:EOLhyphen"/>rall
+deliverance,<note n="e" place="margin">Joh. 11. 50. Joh. 18. 14.</note> God turned that verie meanes which they u<g ref="char:EOLhyphen"/>ſed
+to ſecure themſelves, to be their utter ruine: God forbid it
+ſhould be ſo with <hi>England,</hi> yet ſurely our caſe is dangerous; for,
+<note n="f" place="margin">Math. 12. 25.</note> 
+               <hi>a kingdome divided againſt it ſelfe is brought to deſolation.</hi>
+            </p>
+            <p>That the Kingdome is divided,<note place="margin">The dangerous Diviſions that are in England.</note> I need not tell you; all men ſee and
+feele it; the bloudy diviſions between the King and his Parliament
+have already almoſt brought it to deſolation; but there are yet more
+dangerous diviſions then that: If we that are Proteſtants were
+but againſt the Papiſts, as the Papiſts are againſt us, ſuch a diviſi<g ref="char:EOLhyphen"/>on
+would make happie Union in the end: But we that are Prote<g ref="char:EOLhyphen"/>ſtants
+are divided among our ſelves, in our judgements, or rather
+fancies; we run after ſhadowes and leave the ſubſtance, we uſe our
+liberty to a liberty to ſin, to invent &amp; broach new errors, and ſpend
+our time to make Proſelytes to our ſelves, &amp; to compaſſe our own
+ends: ſome are Proud, ſome are Ignorant, ſome are Ambitious,
+ſome are Covetous, ſome are Prophane, ſome Treacherous, ſome
+Tyrannicall oppreſſors &amp;c. all ſeeke their owne ends, but few ſeek
+Jeſus Chriſt, nor the good of others: we ſeek the Goods of others,
+and our owne good by others ruine. Surely this is cauſe of com<g ref="char:EOLhyphen"/>plaint,
+and (I conceive) is ſome ground of thoſe generall com<g ref="char:EOLhyphen"/>plaints,
+that have from everie Countrie come to mine eares.</p>
+            <p>Now I being bound in conſcience, to the uttermoſt of my en<g ref="char:EOLhyphen"/>deavours,
+to ſeek the reformation of Religion, the peace &amp; ſafetie
+of the Kingdom; I ſhall with ſorow of heart, &amp; in all humble ſub<g ref="char:EOLhyphen"/>miſſion,
+preſent theſe 20 complaints of the people, to the view
+and conſideration of the Inhabitants of the Cities and Counties of
+<hi>England,</hi> &amp;c. (they are the peoples, not mine.)</p>
+            <p>
+               <pb n="9" facs="tcp:113128:7"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+Firſt,<note place="margin"> Twentie ſeve<g ref="char:EOLhyphen"/>rall Complaints common among all ſorts of the people related.</note> That the Government and Diſcipline of the Church is not
+ſetled, according to the rule of Gods word, in uniformitie of wor<g ref="char:EOLhyphen"/>ſhip,
+nor is there a reſtriction to Sectaries and Schiſmaticks, but
+they increaſe dayly, and grow numerous in all places of the King<g ref="char:EOLhyphen"/>dome,
+to the griefe of the godly and wel-affected; Miniſter prea<g ref="char:EOLhyphen"/>ching
+againſt Miniſter, and one Congregation ſeparating from a<g ref="char:EOLhyphen"/>nother;
+as if Chriſt, the head of the Church, were divided; or as
+if there were more Chriſts then one: hereby the illiterate and un<g ref="char:EOLhyphen"/>ſtable
+people are either ſeduced or diſcouraged, not onely to the
+diſquiet of the Church of God, but to the diſturbance of the peace
+of the Kingdome; inſomuch, that men raſhly ſay, they know not
+what Religion ſhall be ſet up, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, That the ſecret evill councells, that have (or have had)
+influence upon the Parliament, the Committee of both King<g ref="char:EOLhyphen"/>domes,
+and the Councells of Warre, which have retarded and
+croſſed ſeverall good deſignes, are not diſcovered nor queſtioned;
+(this I doe but name) it is a generall complaint.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, That the Nationall Covenant (by the providence of
+God) Ordered to be taken in all the parts of the Kingdom (with<g ref="char:EOLhyphen"/>in
+the Parliaments power) hath beene much neglected by the
+Committees of Counties, and in the Univerſitie; which, beſides
+Gods anger, is ſome Impediment to the peace of the Church and
+Kingdome, it being war<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>antable by example in Scripture to urge
+it, ſee 2 <hi>Chron. 15. 13. Ezra.</hi> 10. 5. 8.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, That the Committees of ſeverall Counties doe tyran<g ref="char:EOLhyphen"/>nize
+over the people, and contrarie to the Ordinances of Parlia<g ref="char:EOLhyphen"/>ment,
+and intention of the Houſes, exact Taxations with much
+rigor and partialitie, to the great diſcouragement of the people,
+both Gentlemen and Yeomen, &amp;c. even as in the dayes of <hi>Reho<g ref="char:EOLhyphen"/>boam,</hi>
+which put the people upon reſolutions of ſetting up a third
+partie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, That manie men of meane qualitie, indigent, unfit,
+and unexperienced men, have crept into places of greateſt com<g ref="char:EOLhyphen"/>mand
+and truſt, in ſeverall Counties and Committees; and ſeve<g ref="char:EOLhyphen"/>rall
+Gentlemen of qualitie, education, knowne abilities, and of
+undoubted fidelitie, are neglected and contemned, by, &amp;c. it is a
+cauſe of diviſion and contention, in Committees, Cities, and
+Counties.</p>
+            <p>
+               <pb n="10" facs="tcp:113128:8"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+Sixthly, That men of ſuſpected fidelitie, and of meane conditi<g ref="char:EOLhyphen"/>on,
+and broken fortunes, are authoriſed to be Solicitors and a<g ref="char:EOLhyphen"/>gents
+in matter of Sequeſtration; and hence it commeth, that
+either by their inabilitie to act, or through their corruption in ta<g ref="char:EOLhyphen"/>king
+bribes, a great matter is loſt out of Sequeſtrations which
+might come into the Kingdoms treaſurie, and ſo eaſe the Taxes of
+the well-affected.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Seventhly, That perſons ill-affected to the Parliament, and in
+their practiſe Malignant, are connived at, and by friends or private
+gratuities, find much more favour in ſome Committees then the
+wel-affected, and reall-acting men for the Parliaments ſervice:
+Some knowne Malignants not Sequeſtred at all, ſome have com<g ref="char:EOLhyphen"/>pounded
+at verie eaſie rates for their whole Eſtates, and keepe
+their grounds ſtockt, live ſecurely, are free from Plunder by the
+Kings partie, as friends and ſervants, and from the Parliament by
+protection, at eaſie purchaſe; and yet pay leſſe to the weekely
+Aſſeſſements then the Parliaments beſt friends, who are ſubject
+to Plunder by the Kings ſide, and to free quarter by the Parlia<g ref="char:EOLhyphen"/>ments
+Souldiers: beſides ſeverall other inconveniencies which
+manie of the ill-affected are freed from; to the great diſcourage<g ref="char:EOLhyphen"/>ment,
+and diſcontent of the better partie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Eighthly, That too manie pettie Garriſons in ſome Counties
+are kept, to the great damage of the Countie, they ſerving for no
+other uſe but to maintaine themſelves, which eates up the riches
+of the Countie, and are no defence at all: The Souldiers exact their
+full pay, notwithſtanding the Enemie receive weekely Contribu<g ref="char:EOLhyphen"/>tion
+round about, even to the walls of the Garriſons, whereas the
+charge of keeping thoſe Garriſons would maintaine the grand
+Garriſons much ſtronger then they are, and alſo a partie in them,
+to be ſpared to goe out upon all occaſions of the Enemies incurſi<g ref="char:EOLhyphen"/>ons
+to ſecure the Countrie: and if all thoſe ſmall Garriſons were
+demoliſhed, the Counties ſay they might build them againe,
+at much eaſier charge then keep them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Ninthly, That the Supernumerarie Officers in the Counties,
+and thin companies, devour much pay, and doe little ſervice, the
+common Souldiers being too much neglected and diſ-heartned.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Tenthly, That the Souldiers of Garriſons in ſome Counties,
+who receive conſtant pay from the County, wherein they Garriſon,
+doe uſually take free quarter of the Inhabitants within the ſame
+<pb n="11" facs="tcp:113128:8"/>
+Counties, when they goe out upon any ſervice, and no allowance
+is given to the oppreſſed for injuries done, though complaint be
+made to the Committees, which is a great burthen, and cauſeth
+diſtractions to the prejudice of the publique.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Eleventhly, Divers Souldiers being of the Committees, in ſe<g ref="char:EOLhyphen"/>verall
+Counties, are both parties and Judges, by which juſtice is
+obſtructed, to the oppreſſion of the people, and their much diſ<g ref="char:EOLhyphen"/>heartning
+and diſcontent, as a thing againſt the Vote of the houſe
+of Commons.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> Twelfthly, That by the want of Sheriffs in ſome Counties, and
+Juſtices of the peace, to execute their offices according to the
+law, debts cannot be recovered out of thoſe hands that injuri<g ref="char:EOLhyphen"/>ouſly
+with-hold the right from the true owners, eſtates cannot be
+ſetled, childrens portions are hazarded, vice is not puniſhed, wic<g ref="char:EOLhyphen"/>ked
+men goe free, and the godly are injured to their great
+prejudice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> Thirteenthl, y That the want of Knights and Burgeſſes for ſeve<g ref="char:EOLhyphen"/>rall
+Counties, there being none in the Houſe to make true report
+to the houſe of the ſtate and condition of thoſe Counties, they are
+over-taxed, and ſeverall wayes oppreſſed, and have no meanes to
+ſeeke for redreſſe, under which burthens they much complaine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> Fourteenthly, That Counties oppreſſed complaining (by the
+miſ-information of ſome) are delayed in judgement, and by long
+attendance are put to great expences, and are not relieved, which
+cauſeth ſome men to grow inexorable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> Fifteenthly, That bad cauſes by great friends ſucceed well, and
+good cauſes without friends often miſcarrie: This is a grievance,
+under which the Kingdnme hath groaned manie yeares, and is ſtill
+a ſad and generall complaint.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> Sixteenthly, That notwithſtanding God hath put into the Par<g ref="char:EOLhyphen"/>liaments
+heart, to Ordaine (and to that end, have by Ordinance
+appoynted) that all ſuch, through whoſe hands the Kingdomes
+monyes have paſt, ſhall give a juſt and true accompt thereof
+what they have received, and to whom, and how they have payd
+it: and have with great wiſedome eſtabliſhed a grand Commit<g ref="char:EOLhyphen"/>tee
+of able and juſt men, and other Sub-Committees For ſeverall
+Counties for the faithfull diſcharge of the ſaid ſervice, yet by the
+power and authoritie of men in place, Committees for Sequeſtra<g ref="char:EOLhyphen"/>tions
+and other Officers the worke is obſtructed, and the Sub-Committees
+<pb n="12" facs="tcp:113128:9"/>
+oppoſed, hindred, and diſ-heartened; notwithſtanding
+it is knowne, that great ſummes of Moneys are concealed, to the
+prejudice of the publique, which by due accompt might be brought
+out, to the great benefit of the Kingdome, and would adde much
+to the ſatisfaction of all the well affected. That juſt act and example
+of the Parliament, in the impartiall accompt given to the King<g ref="char:EOLhyphen"/>dome
+formerly, of all the Moneys received of the Kingdome, and
+expended for the publique, before this Warre actually began, was ſo
+acceptable to the people, that they were encouraged with willing
+chearefulneſſe to put all their ſubſtance into the Parliaments truſt,
+for the maintenance of Lawes, Religion, and Priviledges; but now
+with griefe complaine, that much of the publique Treaſure is con<g ref="char:EOLhyphen"/>cealed
+by private men, and that inferiour men, guiltie of the ſame
+crime, ſhall obſtruct ſuch an accompt, as the Ordinance of Parlia<g ref="char:EOLhyphen"/>ment
+requires to be made, and juſtice ſhould exact: thoſe that are
+the refuſers to give ſuch accompt, ſpeake guiltie, though they ſay
+nothing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> Seventeenthly, That the large ſummes allowed for ſalaries to
+particular men, for eaſie labours in the ſervice of the publique, doe
+exhauſt much of the Kingdomes Treaſure, and conduce onely to
+private advantage.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> Eighteenthly, That there is not a perfect purging of Committees,
+as (by Gods mercie and the wiſdome of Parliament) there hath
+beene a new moulding of the Armies; which is no leſſe needfull,
+and as much deſired by all, except thoſe that are parties, and doe
+oppoſe it for ſelfe-ends.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> Nineteenthly, That men ſeek honours, and greatneſſe, by great
+and honourable places; they uſe their places to ſerve themſelves,
+but give not themſelves to ſerve their places, and the Kingdome;
+onely ſo farre as ſerveth ſelfe-ends: which is diſ-honour to places
+of honour, and ingratitude for favours and benefits received: ſo
+that indulgencie is tyrannized over, Mercie and Judgement is
+neglected, and the people grow deſperate, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> Twentiethly, That many Souldiers, Commanders, and Officers
+diſcarded, both of Gentlemen and men of fortune, (who are clou<g ref="char:EOLhyphen"/>ded,
+as they ſay, by the aſperſions of envie) and are gallant fighting
+men cordiall to the Parliaments ſervice, and faithfull in their truſt,
+are not lookt upon according (as they conceive) to their deſerts:
+theſe complaine in diſcontent, and ſpeake paſſionate words, to the
+<pb n="13" facs="tcp:113128:9"/>
+prejudice of Parliament, and to the rejoycing of the malignant
+partie; it is my griefe, but their complaint.</p>
+            <p>Divers other complaints are made by the people,<note place="margin">The Authors Impartia<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ie in dutie.</note> but theſe may
+comprehend all; all which I leave to the conſideration of all thoſe
+whom they chiefly concerne: My end is nothing but reconciliation,
+and reformation; it is but dutie, and I dare not omit it; if
+I be blamed, it is not becauſe I am guiltie, but becauſe I blame the
+guiltie: If any ſuch accuſe me, my integritie ſhall defend me; if
+not, I had rather ſuffer for dutie, or periſh for loyaltie, then to be
+made great by concealing evill, or doing any unworthie act.</p>
+            <p>When <hi>Pompey</hi> was accuſed by the <hi>Romans</hi> for robbing the com<g ref="char:EOLhyphen"/>mon
+treaſure, he cleared himſelfe, by producing the author, and
+freely confeſſed how farre he was guiltie; was himſelfe acquited of
+the crime, and was much honour'd by the people. <hi>Solon</hi> (though he
+was importuned by the people, refuſed to take upon him Soveraign
+authoritie, leſt he ſhould be ſuſpected of tyrannie; yet he at that
+time commanded and ruled all, and afterward wrote theſe Verſes:
+<q>
+                  <l>I neither bluſh, nor yet repent my ſelfe,</l>
+                  <l>that have preſerv'd my native ſoyle alwayes,</l>
+                  <l>And that therein (to hoard up traſh and Pelfe)</l>
+                  <l>no Tyrants thought could once eclipſe my prayſe.</l>
+               </q>
+            </p>
+            <p>Yet notwithſtanding he reformed the State, and neither ſtooped
+for feare of the great, nor flattered to win the multitude, but ſweet<g ref="char:EOLhyphen"/>ned
+all to all ſorts, by the rules of reaſon, mixing ſweet with everie
+ſoure, and force with juſtice, &amp;c.</p>
+            <p>Now having humbly related theſe generall complaints of the peo<g ref="char:EOLhyphen"/>ple,<note place="margin">Satisfaction to the complai<g ref="char:EOLhyphen"/>ners.</note>
+I deſire (with ſubmiſſion to men of better judgment) to endevour
+ſome ſatisfaction (if poſſible) to all the complainers: not by giving
+anſwer to their particular complaints, for that I cannot doe; I may
+not either excuſe nor accuſe: It belongs to publique Juſtice to hear
+and to determine, (not to me;) onely by way of informa<g ref="char:EOLhyphen"/>tion,
+thus much I muſt ſay in vindication of the Parliament, that in
+ſuch a time of trouble and diſtraction, as is at this time through all
+parts of the Kingdome, the Parliament being neceſſitated to uſe
+many inſtruments, as ſervants to them, and to appoynt many Com<g ref="char:EOLhyphen"/>mittees,
+and thoſe Committees manie agents under them, in eve<g ref="char:EOLhyphen"/>rie
+Countie:<note place="margin">It hath beene the care of the Parliament to appoynt p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous and juſt men in all places.</note> (of which there is a neceſſitie) that all men ſo imployed
+in the publique ſervices, might be both pious, and juſt; It hath been
+the care and diligence of the Parliament, however it falleth out,
+that ſome or manie doe prove otherwiſe, for men cannot ſee into
+<pb n="14" facs="tcp:113128:10"/>
+the hearts of men, (God onely is the ſearcher of all hearts) therefore
+it is poſſible yea probably true, that the Parliament may be, &amp; are de<g ref="char:EOLhyphen"/>ceived
+in ſome men, and by ſome men; a<note n="g" place="margin">Mat. 7. 15.</note> 
+               <hi>Wolfe clothed in a ſheeps
+clothing;</hi> may be taking to be an innocent ſheepe, and by ſuch <hi>in<g ref="char:EOLhyphen"/>ward
+Ravening wolves,</hi> injuſtice may be done, oppreſſion, and un<g ref="char:EOLhyphen"/>juſt
+violence countenanced, and good men may be greatly injured,
+&amp;c. It hath beene ſo in former times, and cannot be wholly preven<g ref="char:EOLhyphen"/>ted
+in ſuch times as theſe, (as anon I ſhall ſhew you) though much
+may be done to ſtop the violent rage of ſuch oppreſſors; oppreſſors
+are like Monſters with manie heads; if one be ſtrucken off, another
+comes in his roome: And the Parliament cannot fore-ſee it in the
+faces of men, before they be implyed; no more then you the people
+&amp; Commoners of <hi>England</hi> could ſee the hearts &amp; intentions of many
+of thoſe Knights and Burgeſſes, which you choſe, and ſent up to the
+Parliament;<note place="margin">The peoples negligence and irreligious choyce in Knights and Burgeſſes, hath beene the grea<g ref="char:EOLhyphen"/>test cauſe of their miſery &amp; oppreſſions.</note> who have violated their truſt, and perfidiouſly revol<g ref="char:EOLhyphen"/>ted
+from God, and from their Countrie, to deſtroy both the Parli<g ref="char:EOLhyphen"/>ament,
+and the people: Theſe have beene the ſtrengthners of the
+hands of the Enemies, and are the chiefe cauſe of all oppreſſions; the
+originall of all the evils of which you complaine: for without their
+aſſiſtance, things had not come to this paſſe, the enemie had not been
+able to doe any thing; nor had the miſerie of the Kingdome grown
+to ſo great a height, nor of ſo long continuance. Theſe men whom
+you truſted, have declared themſelves open oppreſſors, and Enemies
+to the Kingdome. Now we know what they are, and you ſee your
+own faults, which you muſt mend for the future; nor is it unpoſſible,
+nor unlikely, but ſome remaine yet undiſcovered, and act their
+parts, and your miſerie, in another <hi>Scene,</hi> under a contrarie notion,
+who knows (like <hi>Judas</hi>) how to betray with a kiſſe, and ſay, <hi>Haile
+Maſter:</hi> for our enemies are not fooles, they would not take all from
+amongſt us,<note place="margin">Secret Enemies hurt moſt.</note> to give counſell againſt us at <hi>Oxford,</hi> but would leave
+ſome to betray, &amp; pervert counſel in other places: If any ſuch are left
+in Parliament, they are but there as <hi>Judas</hi> was among the Apoſtles:
+yet theſe do us the greateſt miſchief, and moſt advantage the enemy,
+(nor is this any new thing, for it is the policie of all States) eſpeci<g ref="char:EOLhyphen"/>ally
+in Counſels, and Armies.</p>
+            <p>This advantage <hi>David</hi> made of <hi>Huſhai's</hi> ſtaying with <hi>Abſolon;</hi>
+               <note place="margin">Example.</note>
+               <note n="h" place="margin">2 Sam. 15. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>If thou returne to the Citie</hi> (ſaith hee) <hi>and ſay to Abſolon,
+I will be thy ſervant, &amp;c. then mayſt thou for me defeat the counſell of
+Achitophel:</hi> nor was <hi>Huſhai</hi> alone, for he had alſo<note n="i" place="margin">verſ. 36.</note> 
+               <hi>Zadok</hi> and
+<hi>Abiachar,</hi> to conſult with: And theſe had <hi>Ahimaze,</hi> and <hi>Jonathan,</hi>
+               <pb n="15" facs="tcp:113128:10"/>
+to carrie information to <hi>David:</hi> this is ordinarie in all States, and
+without queſtion lawfull, in a juſt cauſe, as <hi>Davids</hi> was, and were in
+the Parliament to doe the like; but the Enemie is as vigilant as we
+are careleſſe, to prevent it with us.</p>
+            <p>But that the Enemie hath ſuch Counſellors, and ſuch Intelligen<g ref="char:EOLhyphen"/>cers
+among us, is clearely manifeſt by the acting of ſome deſignes,
+and retarding others: And <hi>Aulicus</hi> may be in this evill occurrents a
+competent witneſſe, who is not aſhamed publikely to confeſſe, that
+they receive dayly intelligence at <hi>Oxford</hi> from <hi>Weſtminster,</hi> and
+<hi>London,</hi> and know what is done in their moſt ſecret counſells: I am
+ſure they have no<note n="k" place="margin">2 King. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12.</note> 
+               <hi>Eliſha with them,</hi> nor have they any <hi>Oracle</hi>
+to enquire of.</p>
+            <p>Nor is it eaſie (though this be knowne) to have all theſe evills pre<g ref="char:EOLhyphen"/>ſently
+reformed, eſpecially theſe oppreſſing evils complained of: For,
+while War is in a Kingdome, injuſtice, oppreſſion, violence, injurie,
+cannot be kept out: That verie Sword which is drawn really to de<g ref="char:EOLhyphen"/>fend
+&amp; to maintain Law, will in ſome things, at ſome times breake
+Law,<note place="margin">In the time of a civill Warre, oppreſſion and violence <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be prevented.</note> ſuch are the evill effects of War; elſe War were not ſo great a
+judgment in a Land: where War rageth, there Ambition is awaken'd,
+there covetouſnes increaſeth, there licenciouſnes is ſet at liberty, and
+violence beareth ſway; the yoake of obedience is caſt off, the peaſant
+would be a Peere; wicked men get the upper hand, and good men
+are oppreſſed and abuſed; Juſtice is troden under foot, &amp;c. order is
+thruſt out, and confuſion filleth the Kingdome: it is the complaint
+of <hi>Zion<g ref="char:punc">▪</g>
+               </hi> the City that God loved:<note n="l" place="margin">Lam. 5. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12.</note> 
+               <hi>Women were raviſhed in Zion, &amp;
+Maids in the Cities of Juda, Princes were hanged by the head, &amp; the fa<g ref="char:EOLhyphen"/>ces
+of the Elders were not honoured, &amp;c.</hi> Infinite are the miſeries &amp; ca<g ref="char:EOLhyphen"/>lamities
+of Warre, beyond my expreſſion; they are dayly written in
+Characters of blood, and to whom ſhall we goe for helpe? of whom
+ſhall we complain? or where can we have redreſſe in all theſe things?</p>
+            <p>If we complain, we muſt complain either againſt God, or againſt
+ſomething elſe: but to complain againſt God we cannot, for<note n="m" place="margin">Pſal. 145. 17.</note> 
+               <hi>God
+is righteous in all his wayes, and holy in all his workes:</hi> wicked <hi>Phara<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi>
+acknowledgeth<note n="n" place="margin">Exod. 9. 27.</note> 
+               <hi>to Moſes, the Lord is righteous:</hi>
+               <note n="o" place="margin">Lam. 3. 33</note> God <hi>doth not
+afflict willingly, nor grieve the children of men:</hi>
+               <note n="p" place="margin">Ezra 9. 13.</note> and <hi>he puniſheth leſſe
+then our iniquities deſerve:</hi> And to complaine againſt men, is but like
+the Dog, to be angrie at the ſtone that is throwne at him: For we
+know, (or ſhould know) that men are but Gods inſtruments, whe<g ref="char:EOLhyphen"/>ther
+they doe us good or hurt: <hi>Shimei</hi> curſt <hi>David,</hi> but <hi>David</hi> knew
+it was becauſe<note n="q" place="margin">2 Sam. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>God had bid Shimei curſe: Iſrael</hi> was afflicted by <hi>Ja<g ref="char:EOLhyphen"/>bin,</hi>
+               <pb n="16" facs="tcp:113128:11"/>
+by <hi>Midian,</hi> by the <hi>Philiſtims,</hi> &amp;c. but it was becauſe<note n="r" place="margin">Judg. 3. 8. Judg. 3. 3. Judg. 6. 1. <hi>All affliction is from God, and for ſinne.</hi>
+               </note> 
+               <hi>the Lord
+had ſold them into their hands:</hi> they were never afflicted by any peo<g ref="char:EOLhyphen"/>ple,
+but God delivered them up to the enemie; nor were they ever
+afflicted by any men, or meanes, in their owne Land, but by the hand
+of God: and God afflicts no man, nor ſuffers any man to be afflicted,
+but for ſinne; ſinne onely is our deſtroying enemie.</p>
+            <p>And ſurely,<note place="margin">We have no<g ref="char:EOLhyphen"/>thing to com<g ref="char:EOLhyphen"/>plaine againſt, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t our ſinnes.</note> we have nothing to complaine againſt, but ſinne; if we
+complaine of wickedneſſe in men, it is but to complaine of other
+mens ſinnes: if we complaine of their wicked actions, as they are
+hurtfull to us, they are but Gods inſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruments, to puniſh us for our
+ſinnes againſt God;<note place="margin">G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d uſeth very wicked men as his inſtruments to puniſh the ſinnes of his people.</note> for God uſeth (and that u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ually) very wicked
+men to be his inſtruments, to afflict his people; he puniſheth ſinne by
+ſinfull men; that is, when God will puniſh or afflict a people, or a
+man, he letteth wicked men looſe, to act their owne w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in wicked<g ref="char:EOLhyphen"/>neſſe,
+to impriſon, to oppreſſe, to plunder, to burne Houſes, Townes,
+and to kill and deſtroy, &amp;c. That men erre in counſell, grow at va<g ref="char:EOLhyphen"/>riance,
+are robbed, wounded, killed, or are betrayed by thoſe they
+truſted, or ſpoyled by thoſe they ſhould be preſerved; it is all of
+God, and from God.</p>
+            <p>It is true,<note place="margin">Diviſions a<g ref="char:EOLhyphen"/>mong m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:punc">▪</g> are juſt puniſh<g ref="char:EOLhyphen"/>ments of ſinne.</note> that diviſions among men, in matters of judgement or
+practiſe, are occaſions of Commotions and Warres &amp;c. yet the effi<g ref="char:EOLhyphen"/>cient
+cauſe is from God; for, when by ſinne men are divided from
+God, God puts diviſions among men: ſo long as <hi>Adam</hi> ſtood re<g ref="char:EOLhyphen"/>conciled
+to God, all the creatures were at peace with him; but when
+<hi>Adam</hi> had ſinned, the creatures were at variance with him, and a<g ref="char:EOLhyphen"/>mong
+themſelves: while <hi>Solomon</hi> walked with God, God gave him
+peace with all men; but when<note n="ſ" place="margin">Kin. 11. 9</note> 
+               <hi>Solomo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s heart was turned from
+God then God was angry with him;</hi>
+               <note n="t" place="margin">verſ. 14. 23</note> 
+               <hi>and the Lord ſtirred up Hadad
+and Rezen to be adverſaries to Solomon:</hi> you know, that <hi>Aſhur,</hi> and
+<hi>Aſſyrian,</hi> are called<note n="u" place="margin">Eſa. 10. 5.</note> 
+               <hi>the Rod of Gods anger;</hi> their malice, and their
+weapons, were but <hi>Gods indignation;</hi> they held the ſtaffe, but God
+guided the hand:<note n="w" place="margin">Eſa. 45. 7.</note> 
+               <hi>I the Lord doe all things;</hi> God ſtirred up the
+ſpirit of<note n="x" place="margin">1 Chro. 5. 26</note> 
+               <hi>Pull,</hi> and of <hi>Tilgath-Pilneſar,</hi> &amp;c.</p>
+            <p>But for your fuller ſatisfaction,<note place="margin">Whence the ground and cauſe of all di<g ref="char:EOLhyphen"/>viſion is.</note> give me leave to expatiate my ſelf a
+little in this thing, that I may fully informe your judgments whence
+all diviſions croſſes, &amp; afflictions come, and how they may be recon<g ref="char:EOLhyphen"/>ciled;
+and in this, I ſhall impart nothing but truth to you: for I
+meane not (nor is it my <hi>Genius</hi>) to uſe diſguiſe, <hi>like the woman of</hi>
+               <note n="*" place="margin">2 Sam. 14. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Tek<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah,</hi> nor to ſpeake by Tropes; Figures better ſet forth num<g ref="char:EOLhyphen"/>bers
+then men, or truths; nor can I tell you any thing by way of
+<pb n="17" facs="tcp:113128:11"/>
+Propheſie, what ſhall be<g ref="char:punc">▪</g> or when your miſerie ſhall end, as <hi>Eliſha</hi> did
+of the Famine in<note n="a" place="margin">2 King, 9. 1.</note> 
+               <hi>Samaria;</hi> nor as the Prophet, that told the
+people, that <hi>to morrow the Lord would deliver their enemies into their</hi>
+               <note n="b" place="margin">1 Chron. 20. 15.</note> 
+               <hi>hands;</hi> for God Almightie doth what he will, and when he will;
+<hi>Times and Seaſons are in his owne</hi>
+               <note n="c" place="margin">Acts 1. 7.</note> 
+               <hi>hands,</hi> and not for mortalls to
+know: but I will truly ſhew you what God hath done, and what he
+doth by his all-guiding providence every day; by which you may ſee
+and know, who, and what it is that hurteth you; and againſt that, you
+have cauſe onely to complaine: <hi>Affliction</hi> (ſaith holy<note n="d" place="margin">Job 5. 6<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Job) doth
+not ſpring from the duſt;</hi> it is not from below, but from above. Let
+mens malice be never ſo great, their ends never ſo miſchievous and
+their contrivance never ſo ſecret, God rules guides, and diſpoſeth all
+that they doe: l<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> men purpoſe what they will,<note n="e" place="margin">Pro. 16. 33.</note> 
+               <hi>God dispoſeth of
+their purpoſes,</hi> to his owne end; who alwayes uſeth wicked men as
+inſtruments to worke his owne deſigne, and uſually diſappointeth
+them of their owne ayme, which chiefely they intended; for their
+end is quite contrarie to Gods end.</p>
+            <p>That God uſeth all the counſailes and actions of men to his owne
+purpoſe,<note place="margin">All counſailes<g ref="char:punc">▪</g> are ordered by God.</note> you ſhall ſee; God complaineth, that the<note n="f" place="margin">Ezek 11. 2 <hi>Examples.</hi>
+               </note> 
+               <hi>Princes of Iſrael
+deviſed miſchiefe, and gave wicked counſaile:</hi> God complaineth of the
+wickedneſſe of their hearts; but you may ſee, God makes his owne
+uſe of it, and makes that to be a meanes to<note n="g" place="margin">Verſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>bring the ſword upon
+them,</hi> which was the thing they feared: againe, you ſhall ſee that <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi>
+is threatned with the ſword, <hi>That it ſhall abide on their Cities and
+devoure them, becauſe of their owne counſailes;</hi> yet God ſaith of him<g ref="char:EOLhyphen"/>ſelfe,
+<note n="h" place="margin">Ier. 19. 7.</note> 
+               <hi>I will make void the counſailes of Iudah, and Ieruſalem, and
+will cauſe them to fall by the ſword:</hi> God complaineth, that <hi>the Princes
+of Zoan are become fooles, and the Princes of Noph are deceived</hi> and
+they ſeduced others; but (the Text ſaith) <hi>the</hi>
+               <note n="i" place="margin">Eſay 19. 13, 14.</note> 
+               <hi>Lord mingled a
+perverſe ſpirit in the midſt of them:</hi> That <hi>Rehoboam</hi> forſooke the
+good counſaile of <hi>the grave, ancient Counſellor of his father,</hi> and fol<g ref="char:EOLhyphen"/>lowed
+<note n="k" place="margin">1 King. 12. 13.</note> 
+               <hi>the counſaile of young men,</hi> to oppreſſe, and tyrannize over
+his people; it was not by chance: the young men ſhewed the wic<g ref="char:EOLhyphen"/>kedneſſe
+of their hearts, and <hi>Rehoboams</hi> corruption was diſcovered
+by it; but God turned it to his owne purpoſe, as he had before
+threatned; for the ſinne of <hi>Solomon,</hi>
+               <note n="l" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 11. 31.</note> 
+               <hi>to rend the Kingdome out of
+his hand, and give ten Tribes to Ieroboam:</hi> therefore, whatſoever <hi>Re<g ref="char:EOLhyphen"/>hoboam</hi>
+or his young counſaile intended, God himſelfe ſaith,<note n="m" place="margin">1 King. 12 24.</note> 
+               <hi>This
+thing is done of me,</hi> (or all this is from me.)</p>
+            <p>But to come more neere to our preſent buſineſſe, let us apply all
+<pb n="18" facs="tcp:113128:12"/>
+this to our ſelves,<note place="margin">The application of things to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe preſent times.</note> and to theſe times of trouble, and miſerie, and con<g ref="char:EOLhyphen"/>ſider
+from whom they are, and why they are come upon us: Firſt,
+conſider they are not from evill Counſailes, from the Biſhops, from
+the Queene, Papiſts, nor from <hi>Rome,</hi> nor the Devill, but as they are
+ordered by God,<note place="margin">The Devill is the chiefe in<g ref="char:EOLhyphen"/>ſtrument, all <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icked men are his Agents.</note> for from him they are: It is true, the Devill hath
+a chiefe hand, as an inſtrument, but not as a cauſe; and all wicked
+men, Papiſts, and licentious, covetous, cruell, oppreſſing men, are
+pettie inſtruments under the Devill, but all are ordered by God,
+though their ayme, and end, is quite contrarie to Gods: they ayme
+at deſtruction of Proteſtants, and Proteſtant Religion; God turnes
+their wicked ayme to the preſervation of both, and to the deſtructi<g ref="char:EOLhyphen"/>on
+of themſelves: their ayme is, to make themſelves Monarchs,
+and the people ſlaves; God turnes it to the rending of Kingdomes
+and power out of their hands, and to eſtabliſh the freedome of his
+people.<note place="margin">Examples.</note> We know, that <hi>Labans</hi> end, in purſuing of <hi>Iacob,</hi> was for hurt
+to <hi>Iacob;</hi> but God ſo ordered him, that it was for<note n="n" place="margin">Gen. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Iacobs</hi> good:
+<hi>Eſau</hi> had his end, in comming out againſt <hi>Iacob;</hi> but God orders
+him to his owne purpoſe. The Brethren of <hi>Ioſeph</hi> had their end in
+ſelling <hi>Joſeph;</hi> they hated him, and ſought his deſtruction: but God
+turned it<note n="o" place="margin">Gen. 37. 4. &amp; Gen. 45. 5.</note> 
+               <hi>to the preſervation of Ioſeph, and of all Iſrael. Haman</hi>
+had his end, <hi>in ſetting up a Gallowes;</hi> but God turned it to his owne
+purpoſe, quite contrarie to<note n="p" place="margin">Eſter 7. 9.</note> 
+               <hi>Hamans</hi> end and intent.</p>
+            <p>Conſider the evill Counſellors of the King;<note place="margin">God diſappoyn<g ref="char:EOLhyphen"/>teth the ends of wicked men.</note> Biſhops, Jeſuites, Pa<g ref="char:EOLhyphen"/>piſts,
+&amp;c. they propounded their end; in all which, God ſuffered them
+to goe farre, till they thought they could not be hindred; their Plots
+were carryed on by degrees, &amp; gradations for at leaſt twenty yeares,
+viſible to our ſenſe; we ſaw it, and we felt it: but at the period of time,
+when they thought to have effected all, and were as confident as <hi>Ha<g ref="char:EOLhyphen"/>man</hi>
+was of his deſigne againſt <hi>Mordecai,</hi> and againſt the <hi>Iewes,</hi> then
+God put a turne to all. Looke back but to theſe five yeares paſt, and
+conſider, and you ſhall ſee Providence hath wonderfully ordered
+things againſt their deſigne, and for our deliverance, beyond the
+counſaile or power of men. Was it leſſe then a wonder, that God
+ſhould ſo order things, that by their preparations into the North
+with an Armie, we ſhould have a Parliament? It was contrarie to
+their end: Was it not miraculous, that God ſo infatuated their
+counſailes, that they eſtabliſhed that Parliament, which now they
+cannot breake, though many of them have loſt their lives in at<g ref="char:EOLhyphen"/>tempting
+it? When <hi>Pharoah</hi> had let the people goe out from bon<g ref="char:EOLhyphen"/>dage,
+he repented, and purſued with an Armie, to bring them back;
+<pb n="19" facs="tcp:113128:12"/>
+but God turned it to his deſtruction. We have ſeene what our ene<g ref="char:EOLhyphen"/>mies
+have done againſt us, and what God hath done for us; what
+God will doe more at the Red Sea, we know not.</p>
+            <p>Secondly,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gods end i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in afflicting his people, and what is the end w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed men propound to themſelves.</note> Conſider why theſe things are; I have alreadie ſhewed
+you, that all differences, all afflictions and troubles, are for ſinne:
+but God, though he uſe wicked men to b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inſtruments to puniſh
+ſinfull men and Nations, hath theſe two ends why he doth it; and that
+is, to deſtroy wicked men in their owne wayes, and to humble his
+people, that they may be delivered by Gods mercie. Wicked men
+hate the godly, becauſe they are not ſo wicked, ſo prophane, and un<g ref="char:EOLhyphen"/>godly
+as they would have them; God afflicts the godly, becauſe they
+are not ſo good, ſo zealous, and ſo holy, as God commandeth: God
+chaſtiſeth to humble men, to bring them to repentance and refor<g ref="char:EOLhyphen"/>mation;
+and at this day doth therefore bring all theſe evils of pu<g ref="char:EOLhyphen"/>niſhment
+upon us, becauſe we are an idolatrous, ſuperſtitious, luke<g ref="char:EOLhyphen"/>warme
+people; prophane, ſtiffe-necked and rebellious againſt God:
+That by theſe puniſhments and chaſtiſements we may be humbled,
+turne to God, forſake our evill wayes, pray to him, and ſeek his face;
+that he may doe us good, deſtroy our enemies, eſtabliſh our Religi<g ref="char:EOLhyphen"/>on,
+our Lawes, our Freedomes &amp;c. and make us the happieſt people
+under Heaven, to all poſterities.</p>
+            <p>If ſo (for this is a truth) then why doe we complaine?<note place="margin">There is no cauſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy men ſhould com<g ref="char:EOLhyphen"/>plaine.</note>
+               <note n="q" place="margin">Lam. 3. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>Where<g ref="char:EOLhyphen"/>fore
+ſhall a living man complaine?</hi> ſhall a man complaine <hi>for the pu<g ref="char:EOLhyphen"/>niſhment
+of his ſinne:</hi> no, but<note n="r" place="margin">Deut. 10. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Let us ſearch and try our wayes, and
+turne againe to the Lord:</hi> This God looketh for<g ref="char:punc">▪</g> 
+               <hi>this is all he requi<g ref="char:EOLhyphen"/>reth
+of us,</hi> for all that he hath done for us<g ref="char:punc">▪</g> and for all that he will doe
+for us, yet we murmur in all our afflictions,<note n="s" place="margin">Eſay 9. 3.</note> 
+               <hi>And turne not to the
+Lord that ſmiteth us, neither doe we ſeeke the Lord of hoſts.</hi>
+            </p>
+            <p>To this will be objected (for I have heard this objection often) we
+murmur not againſt God,<note place="margin">Objection.</note> nor for the puniſhment of our ſinnes, nor
+againſt the common Enemie, againſt whom we are willing to ha<g ref="char:EOLhyphen"/>zard
+our lives and fortunes in this juſt cauſe; nor doe we complaine
+againſt the Parliament, for it is our life and ſafetie: but we com<g ref="char:EOLhyphen"/>plaine
+of partialitie, injuſtice, and oppreſſion in particular men, from
+whom we lookt for juſtice, and by whom we hoped to be relieved
+from oppreſſors hands: theſe ſelfe-ſeeking men make a prey
+of us, they devoure our eſtates, (which we freely give in this cauſe
+to God, and for our Countrie) to enrich themſelves:<note n="t" place="margin">Amos <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6.</note> 
+               <hi>They ſell
+the righteous for ſilver<g ref="char:punc">▪</g> and the poore for a paire of ſhooes;</hi> this is our
+complaint, and our diſcouragement.</p>
+            <pb n="18" facs="tcp:113128:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:113128:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="20" facs="tcp:113128:14"/>
+For fuller ſatisfaction,<note place="margin">Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deliverance out of Aegypt was but a type of the ſpirituall deliverance by Chriſt, from ſinne &amp; Idola<g ref="char:EOLhyphen"/>trie.</note> and information of our judgement, conſi<g ref="char:EOLhyphen"/>der,
+(as I ſaid before) God is working a great and new worke in the
+world, greater then that of the bringing of <hi>Iſrael</hi> out of <hi>Aegypt,</hi>
+whereof that was but a type or figure; that was temporall, this is
+ſpirituall, and is farre tranſcendent;<note n="u" place="margin">Ier. 23. 7:</note> 
+               <hi>So as ye ſhall no more ſay,
+the Lord liveth that brought up the children of Iſrael out of Aegypt,
+but the Lord liveth which brought up, and led the ſeed of the houſe of
+Iſrael out of the North, and from all Countries, &amp;c.</hi> the greateſt works
+have ever met with the greateſt oppoſition.</p>
+            <p>God is now about no leſſe worke then to ſet up Jeſus Chriſt on
+his Throne, and to pull downe Antichriſt from his Stage: Now as
+God hath his inſtruments to build, the Devill hath his inſtruments
+to breake downe; and as God pulls downe the Stage of Antichriſt
+(on which he acts his Idolatrous <hi>Scene</hi>) the Devill endeavours to
+keepe it up: and to that end, ſends forth his Agents into the
+world,<note n="w" place="margin">2 Chron. 18, 20. Ezek. 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3. Rev. 16, 13.</note> 
+               <hi>uncleane and evill ſpirits to ſeduce men, to make them his
+instruments,</hi>
+               <note n="x" place="margin">1 Tim. 4. 1</note> who <hi>depart from the faith of Chriſt, and follow after
+doctrines of Devills;</hi> ſet up Idols in their hearts, and forſake juſtice
+and humanitie to imbrace deviliſh luſts: Now becauſe God will <hi>cut</hi>
+               <note n="y" place="margin">Zach. 13. 8</note> 
+               <hi>off the name of Idols out of the Land, and cauſe thoſe evils ſpirits
+to paſſe out from among us;</hi> they are ſo much the more enraged, and
+beſtirre themſelves, to hinder Gods worke: as <hi>Iannes</hi> and <hi>Iambres</hi>
+               <note n="z" place="margin">2 Tim. 3. 8</note> 
+               <hi>withſtood Moſes,</hi> ſo doe <hi>theſe reſist the truth,</hi> being <hi>men of cor<g ref="char:EOLhyphen"/>rupt
+minds.</hi>
+            </p>
+            <p>Thus it is at this day;<note place="margin">The Devils malice joyned with the Anti<g ref="char:EOLhyphen"/>christian brood.</note> the Devill and his Antichriſtian brood (as it
+were) loſing their wonted Juriſdiction, readie to be tumbled downe
+into the place of correction, ſtorme, and ſtirre up all their Agents, of
+all ſorts, for they have agents for all places; hence it commeth, that
+our beſt ſocieties are troubled:<note place="margin">Agents of all ſorts.</note> they have Agents in the Church,
+and Agents in the Common-wealth; great Agents for great Coun<g ref="char:EOLhyphen"/>ſels,
+to hinder good deſignes; learned Agents for learned Aſſem<g ref="char:EOLhyphen"/>blyes,
+to trouble Religious Diſputes; Militarie Agents for <hi>Militia</hi>
+Conſultations, to impoveriſh the Common-wealth; acting Agents
+in fighting Armies, to betray Deſignes; Committee Agents, finely
+fitted, and inter-weaved into Committees of all Counties, to breed
+diſſention, and to tyrannize; beſides numbers of inſinuating Agents
+to pervert, and theſe have potent Armies to compell.</p>
+            <p>Now to every one of theſe (and to many more) the Devill pro<g ref="char:EOLhyphen"/>poundeth
+ſeverall rewards,<note place="margin">The Devill hath many baits to deceive and catch men.</note> ſutable to every ones naturall diſpoſition
+and inclination, as baits and incitations to act their parts with dili<g ref="char:EOLhyphen"/>gence,
+<pb n="21" facs="tcp:113128:14"/>
+which they make their maine end: As for example, to the en<g ref="char:EOLhyphen"/>vious
+man he promiſeth revenge, and he makes that his end: to the
+proud man he promiſeth applauſe and prayſe of men, and that's his
+end: to the voluptuous <hi>Libertine</hi> he promiſeth pleaſure, that's his
+end: to the baſe and ſervile he promiſeth libertie, and that he makes
+his end: to the ambitious he promiſeth honour and high place, and
+that's his end: to the covetous man (and he carries the great<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſtroake) he promiſeth profit and riches, and that he ſeekes after as
+his chiefe end: and ſo for others; for the Devill hath a bait to ſuit
+with everie <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt: for me to take upon me to name them all to you,
+were beyond my skill, as farre as to number the motes in the Sun,
+or to meaſure the wind: It may ſuffice for your information, and
+this ſhort Tract; to hint out the truth of things, to ſhew you the
+ground and cauſe of your complaint,<note place="margin">Mens <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſts <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hyp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</note> which ariſeth thus: Evill men
+thus induced, and drawne by the Devill and their owne luſts, diſ<g ref="char:EOLhyphen"/>guiſed
+under the maſque of Hypocriſie, in pretence of zeale to God,
+and love to the Common-Weale; crowd in among the multitude
+into the publique ſervice, and fiſh in troubled waters, to accompliſh
+their ſeverall ends, eſpecially the reward of gaine, which they ex<g ref="char:EOLhyphen"/>pect
+either from the enemie for ſome acts of Treacherie, in betray<g ref="char:EOLhyphen"/>ing
+us into their hands; or from the Parliament, for ſome ſeeming
+fidelitie and out-ſide ſervice, or to get it by the ſpoyle of others, as a
+thiefe that crowds into a houſe ſet on fire, pretending to ſave that
+which he intends to ſteale: from theſe evills, as from bitter foun<g ref="char:EOLhyphen"/>taines,
+doe flow the great cauſes of all your complaints.</p>
+            <p>Nor doth the Devill at one bring men to this height of wicked<g ref="char:EOLhyphen"/>neſſe,<note place="margin">The Devill makes men, wicked by de<g ref="char:EOLhyphen"/>grees.</note>
+for he cannot force any mans will, but workes upon his luſts
+and bribes with promiſes, and ſo carries him on by gradations: as
+the cowardly Souldier is hardned by degrees; at firſt comming in<g ref="char:EOLhyphen"/>to
+the field he trembles and ſhakes at the report of everie Muſquet,
+but after he hath paſt through a battell or two, and ſeene a Victory,
+he is hardned ſo, as to accompt the bullets whiſtlings about his eares
+fine muſicke, and dares encounter death at halfe-pike. We know
+that <hi>Solomon</hi> at firſt tooke but one ſtrange wife<g ref="char:punc">▪</g> then two, then
+more, at laſt hundreds, or thouſands: let the Devill but make one
+breach in the conſcience, hee'l come in like mightie waters, irreſi<g ref="char:EOLhyphen"/>ſtable,
+till he over-flow and drowne both conſcience and reaſon;
+we ſay in our proverb, <hi>over ſhooes over bootes,</hi> and then, over-head
+and eares, and all. It is likely, that manie of thoſe men juſtly com<g ref="char:EOLhyphen"/>plained
+of, intended not ſo much injuſtice and oppreſſion (as ſince
+<pb n="22" facs="tcp:113128:15"/>
+they are guiltie of.) When they firſt entred into the places of Col<g ref="char:EOLhyphen"/>lectors,
+Receivers, Auditors, Committees, Colonels, Captaines, &amp;c.
+<hi>but the love of money,</hi> (which the Apoſtle calls the<note n="a" place="margin">1 <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im 6, 10.</note> 
+               <hi>root of all evill)
+which while ſome coveted after, have carried them violently unto all in<g ref="char:EOLhyphen"/>juſtice:</hi>
+for (ſaith <hi>Solomon</hi>)<note n="b" place="margin">Eccleſ. 5. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>He that loveth ſilver ſhall not be ſa<g ref="char:EOLhyphen"/>tisfied
+therewith<g ref="char:punc">▪</g>
+               </hi> The oppreſſed may complaine of his loſſe<g ref="char:punc">▪</g> but the
+oppreſſor will never ſay he hath enough; the covetous man ruſheth
+into temptations, and ſnares, and huttfull luſts,<note n="c" place="margin">1 Tim. 6. 9.</note> 
+               <hi>which drowne him
+in deſtruction and perdition:</hi> the love of money made<note n="d" place="margin">Numb. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17.</note> 
+               <hi>Balaam</hi> go
+to curſe the people of God; it made<note n="e" place="margin">1 Sam. 22 9.</note> 
+               <hi>Doeg</hi> flatter <hi>Saul,</hi> and ac<g ref="char:EOLhyphen"/>cuſe
+<hi>David;</hi> for a Kingdome<note n="f" place="margin">Sam. 15</note> 
+               <hi>Abſolon</hi> will ſeeke his fathers life)
+and the hope of the Crowne made<note n="g" place="margin">Judg. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2.</note> 
+               <hi>Abimelech</hi> embrew his hands
+in the blood of <hi>threeſcore and ten of his brethren:</hi> and for money
+<note n="h" place="margin">Math. 26. 16.</note> 
+               <hi>Judas</hi> will betray his maſter. What villanie is there in the world
+to be committed that for the love of mony ſome men will not rea<g ref="char:EOLhyphen"/>dily
+act? The covetous deſire after gaine depraves a man of reaſon,
+puts out the light of judgement and underſtanding.</p>
+            <p>But moſt lamentable and dangerous of all is it, to ſee that the
+Devill ſhould by this bait induce men, that have taken upon them
+the profeſſion of Religion, to <hi>make ſhipwrack of faith and good conſci<g ref="char:EOLhyphen"/>ence</hi>
+               <note n="i" place="margin">1 Tim. 1. 20.</note>, like <hi>Hymeneus</hi> and <hi>Alexander</hi> and like<note n="k" place="margin">2 Tim. 4. 10.</note> 
+               <hi>Demas, to love this
+preſent world.</hi> As there is nothing in the world more excellent then
+Religion, ſo no man is ſo honourable as he that is truely Religious.
+But there is no evill,<note place="margin">No man ſo vile as an hypocrite either to God or men.</note> ſo evill and vile as Hypocriſie; nor no man ſo
+dishonourable, as he that takes upon him the profeſſion of Religion
+for by-ends, and for advantage ſake; ſuch men are lyers to the ho<g ref="char:EOLhyphen"/>ly
+Ghoſt, they dishonour God above all ſinners, they are a ſtaine to
+the puritie of Religion, a griefe to all the godly, a ſtumbling-blocke
+to the weake, a hardning to ungodly men, and a rejoycing to the e<g ref="char:EOLhyphen"/>vill
+angels: an hypocrite<note n="l" place="margin">Job 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 16.</note> 
+               <hi>ſhall not ſee God;</hi> the ſentence of wrath
+upon the worſt of ſinners, is but<note n="m" place="margin">Math. 24. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> 
+               <hi>to have their portion with hy<g ref="char:EOLhyphen"/>pocrites:
+If any man draw back</hi> (ſaith the Apoſtle)<note n="n" place="margin">Heb. 10. 38.</note> 
+               <hi>my ſoule ſhall
+have no pleaſure in him:</hi>
+               <note n="o" place="margin">1 John 2. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>They went out from us, but they were not
+of us, if they had beene of us, they would have continued with us:</hi>
+               <note n="p" place="margin">Math. 13. 2</note> 
+               <hi>The thornie ground becomes unfruitfull, and why? becauſe the de<g ref="char:EOLhyphen"/>cenfullneſſe
+of riches choake the ſeed of the word:</hi> our Saviour ſaith,
+it is a hard thing<note n="q" place="margin">Math. 19. 20.</note> 
+               <hi>for a rich man to enter into the Kingdome of bea<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi>
+but ſurely it is a harder thing for a covetous rich man to en<g ref="char:EOLhyphen"/>ter
+into the Kingdome of heaven. Many Patriarchs and holy men,
+were rich men; and divers of them had their ſlips, ſaylings, and
+<pb n="23" facs="tcp:113128:15"/>
+ſins, which in Scripture are recorded for our admonitions; but (that I
+can find in all the Scripture) there is not one example of one holyman
+that was an oppreſſor or a covetous man. Certainly the Devil cannot
+do ſo great a miſchiefe in the world as to procure a wicked worldling
+to take upon him to be a profeſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of Religion;<note place="margin">The Devill <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> greater miſ<g ref="char:EOLhyphen"/>chiefe then to make a wicked worldling to be a profeſſor of Religion.</note> for (beſides all other
+evills<g ref="char:punc">▪</g> he calls reproach upon God, and upon Religion by his god<g ref="char:EOLhyphen"/>leſſe
+actions, more then all Devils or wicked men can doe. God
+ſaith of<note n="r" place="margin">2 Sam. 12. 14.</note> 
+               <hi>David,</hi> for one ſinne committed by him, that he had <hi>gi<g ref="char:EOLhyphen"/>ven
+occaſion to the enemies of God to blaſpheme:</hi> and the Apoſtle <hi>Paul</hi>
+ſaith of ſuch men, that<note n="ſ" place="margin">Rom. 2. 24</note> 
+               <hi>boasted of the Law,</hi> and yet by <hi>breaking of
+the law dishonoured God;</hi> that the <hi>name of God is blaſphemed of the
+Gentiles through them.</hi>
+            </p>
+            <p>Neither is any of all this without God, Gods hand is in all:<note n="t" place="margin">Amos 3. 6.</note> 
+               <hi>Shall
+there be evill in the Citie, and I have not done it?</hi> there is no evill of
+puniſhment befalls any man, but it is from God; but all the evill of
+ſinne is from the actor of it, and from the Devill, whoſe agents wic<g ref="char:EOLhyphen"/>ked
+men are: it is true, that God uſeth wicked men to afflict his
+people,<note place="margin">Wicked man act for the Devill.</note> but they act for Satan and their wicked ends, in all the ſinne
+they commit; onely God maketh uſe of them to afflict his people,
+for chaſtiſements of ſinne ſometimes, and ſometimes for tryalls of
+their faith:<note n="u" place="margin">Zach. 13. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>There is a refining fire through which a third part must
+paſſe;</hi> and in the end God will deſtroy wicked men, for that in which
+they have afflicted his people,<note place="margin">They are ſimi<g ref="char:EOLhyphen"/>ted by God.</note> and will blaſt all their deſignes, let
+them have never ſo great hopes for the effecting of them; for
+<note n="w" place="margin">Job <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 14.</note> 
+               <hi>God will cut off the hope of wicked men, their truſt ſhall be as a
+Spiders Web:</hi> Gods will and purpoſe is unchangeable;<note n="x" place="margin">Pro. 19. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eſay <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>There are
+many devices in mans heart</hi> (ſaith <hi>Solomon) nevertheleſſe the counſaile
+of the Lord, that ſhall ſtand.</hi> Our Saviour Chriſt tells <hi>Pilot,</hi> that hee
+<note n="y" place="margin">Joh. 19. 11</note> 
+               <hi>could have no power, except it were given him from above:</hi> Nor
+did the<note n="z" place="margin">Acts 4. 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Rulers of the people, Jewes nor Gentiles, any thing <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all
+that they did againſt Chriſt, but what was appoyted by the determinate
+counſaile of God.</hi> Therefore there is no cauſe why any (man ſtaring
+God) ſhould be diſcouraged at any thing that befalleth them, to
+their perſons or eſtates,<note place="margin">Between <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſeed of the bond woman and the ſeed of the free woman, there will ever be contentions.</note> while they walke in the wayes of godlineſſe
+and honeſtie: for, where there is a <hi>Iacob</hi> and an <hi>Eſan</hi> there will be
+ſtrivings, and while their ſeed remaines upon the earth there will be
+emulations and injuries; one will be for God, and another for the
+world: and hence it is, if you obſerve, and conſider well, that there
+was never any Reformation in the world, by turning to God
+<pb n="24" facs="tcp:113128:16"/>
+from ſinne and Idolatrie, but it met with great oppoſitions, and
+bloud.</p>
+            <p>Conſider,<note place="margin">No reformation without blood.</note> the very Covenant with <hi>Abraham</hi> was ſigned with
+bloud; the <hi>Iſraelites</hi> came not out of <hi>Aegypt,</hi> without bloud; Ido<g ref="char:EOLhyphen"/>latrie
+was at no time ejected, in the times of all the Judges of <hi>Iſrael,</hi>
+but by bloud.<note place="margin">Examples.</note> When <hi>Hezekiah</hi> had deſtroyed Idolatrie, preſently
+<hi>Senacherib</hi> ſought to deſtroy him and his people: when <hi>Aſa</hi> made
+a Covenant to ſeeke God and reformed his Kingdome, <hi>Baaſha</hi> King
+of <hi>Iſrael</hi> made warre againſt him. The great reformation, after the
+70 yeares Captivitie, was mightily oppoſed, from the firſt beginning
+of it till it was wholly finiſhed, and continually hindred by falſe Ac<g ref="char:EOLhyphen"/>cufations,
+by ſubtill Counſels, and pretended Treaties, and by open
+Violence. The promulgation of the Goſpel was oppoſed from the
+beginning, and continued all the Primitive times, with bloudie <hi>Per<g ref="char:EOLhyphen"/>fecutions.</hi>
+The Reformation from the darkneſſe of <hi>Poperie,</hi> in <hi>Luthers</hi>
+time, was oppoſed by bloudie diſturbance to all Chriſtian Churches.
+The Reformation that was begun by King <hi>Edward,</hi> was oppoſed
+with fire and ſword: and in the Reigne of Queene <hi>Elizabeth</hi> (of
+bleſſed memorie) it was oppoſed by continued Conſpiracies, and
+open Hoſtilitie, with effuſion of much bloud, eſpecially in <hi>Ireland;</hi>
+and can it be expected, that it ſhould be now finiſhed without
+bloud?</p>
+            <p>If the beginning of this Reformation by King <hi>Edward</hi> and Queene
+<hi>Elizabeth</hi> coſt much bloud, it muſt needs be expected, that the per<g ref="char:EOLhyphen"/>fecting
+of that Reformation now,<note place="margin">The Antichri<g ref="char:EOLhyphen"/>ſtian br<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d have been many yeares plotting againſt us.</note> muſt coſt much more bloud; if we
+will but conſider the Devils malice, the potencie of our enemies,
+their long time in plotting againſt us, the combination of all ſorts
+of wicked men, united in One againſt Reformation, <hi>Ieſuites, Papiſts,
+Atheiſts, Libertines,</hi> &amp;c. Hell and Earth have made a Confederacie,
+and rayſed all their Powers, at home and from abroad, to binder it,
+and to deſtroy us, by fained authoritie, and by the power of their
+Sword; beſides, the Devill hath ſecret agents, like himſelfe, temp<g ref="char:EOLhyphen"/>ters,
+that are undiſcoveted among us who infuſe Poyſon, and hinder
+Antidotes: And thus God will have it for a time, and then <hi>wee
+ſhall call upon his Name,</hi>
+               <note place="margin">Zach. 13. 9.</note> 
+               <hi>and he will heare us, and will ſay, You are my
+people, and wee ſhall ſay, the Lord is our God;</hi> but wee are not yet
+readie for ſuch a Bleſſing.</p>
+            <p>Conſider, that our long continuance in ſinnes for many yeares,
+notwithſtanding many warnings, hath provoked God to lay long
+<pb n="25" facs="tcp:113128:16"/>
+afflictions upon us;<note place="margin">The former ſins of this King<g ref="char:EOLhyphen"/>dome, and our preſent impent<g ref="char:EOLhyphen"/>tencie, cauſe our long afflictions.</note> and our preſent impenitencie, and continuance
+in perſonall ſinnes, doe ſtill encreaſe Gods anger againſt us We<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+make peace with our ſinnes, and fall out one with another; writ
+God be at peace with us, while we are divided one againſt another;
+God is a God of Peace,<note n="a" place="margin">1 Joh. 4. 16.</note> 
+               <hi>not of diviſions<g ref="char:punc">▪</g>
+               </hi> God is a God of Love,
+not of<note n="b" place="margin">1 Cor, 14. 33.</note> 
+               <hi>confuſion:</hi> if we love not one another God will nor love
+us, nor can wee be<note n="c" place="margin">Joh, 13 35 Joh. 14. 47.</note> 
+               <hi>the Diſciples of Chriſt.</hi> Doe wee now ſeeke
+<hi>to make our ſelves a Name on Earth,</hi> and to get great<note n="d" place="margin">Jer. 45. 5.</note> 
+               <hi>things to
+our ſelves,</hi> while God is plucking up, and breaking downe what hee
+hath planted, and built up? Is this to build God an Houſe, and a
+Sanctuarie of Holineſſe? God now calls us to<note n="e" place="margin">Eſay 22. 12. 13.</note> 
+               <hi>mourning, to
+weeping, and to girding with ſack-cloth,</hi> and ſhall we now be proud,
+and ambitious, and covetous, and oppreſſors; and voluptuous? &amp;c.
+God forbid: this is the way and meanes, to be<note n="f" place="margin">Eſay 9. 14.</note> 
+               <hi>cut off head and
+tayle branch and ruſh, in one day.</hi>
+            </p>
+            <p>When God by <hi>Moſes</hi> commanded to build the Tabernacle,<note place="margin">The builders of Gods houſe have ever been of one mind.</note> the
+<note n="g" place="margin">Exod. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp;c.</note> 
+               <hi>people were all willing hearted,</hi> of one mind, aymed at one end,
+all were pleaſed with the faſhion that <hi>Moſes</hi> had preſcribed; ſo,
+when<note n="h" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Solomon</hi> built the firſt Temple, and when<note n="i" place="margin">Nehe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18</note> 
+               <hi>Nehemiah</hi>
+built the ſecond Temple; but when the people would build a <hi>Babel,</hi>
+they were divided, and they were ſcattered;<note n="k" place="margin">Gen. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 4</note> 
+               <hi>Let us build, ſay
+they, leſt we be ſcattered,</hi> &amp;c.<note n="l" place="margin">verſ. 7. 8.</note> 
+               <hi>Let us goe downe</hi> (ſaith <hi>Iehovah)
+that they may be ſcattered,</hi> &amp;c. Gods thoughts are not as our
+thoughts; when wee ſeeke ſafetie in our ſelves God will bring
+confuſion. The Builders of <hi>Babel</hi> were confounded in their Lan<g ref="char:EOLhyphen"/>guage,
+and ſo ſcattered<g ref="char:punc">▪</g> wee are confounded in our ends, our de<g ref="char:EOLhyphen"/>vices,
+and faſhions of the Building; one thus another thus<g ref="char:punc">▪</g> a third
+after another fancie; all would be pleaſed but none will be ſatisfied:
+ſhe that contends<note n="m" place="margin">1 King. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 16.</note> 
+               <hi>to divide the Child,</hi> is no true Mother: if we
+ſeeke to divide Chriſt, we are not<note n="n" place="margin">1 Cor. 1. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12.</note> 
+               <hi>members;</hi> if we be divided a<g ref="char:EOLhyphen"/>mong
+our ſelves, Chriſt is not our<note n="o" place="margin">Epheſ, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 15. 16.</note> 
+               <hi>Head.</hi>
+            </p>
+            <p>Conſider all ye, the inhabitants of <hi>England,</hi> Have we not all <hi>One
+Father,</hi>
+               <note n="p" place="margin">Joh. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>God?</hi> Have we not <hi>One Mediator;</hi>
+               <note n="q" place="margin">1 Tim 2. 5</note> 
+               <hi>Chriſt?</hi> And is
+not <hi>Chriſt and the Father</hi>
+               <note n="r" place="margin">Joh. 8. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>One?</hi> Muſt there not be <hi>One Sheepfold
+and One</hi>
+               <note n="ſ" place="margin">Joh. 10. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>Shepheard?</hi> Hath not Chriſt prayed, to the Father, that
+<hi>we may be One, as they are One,</hi>
+               <note n="t" place="margin">Joh. <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2.</note> 
+               <hi>that the world might beleeve?</hi>
+And yet ſhall wee divide our ſelves? Wee are not our owne, but
+Chriſts;<note n="u" place="margin">1 Cor. 6. 20.</note> 
+               <hi>He hath bought us with a price.</hi> And ſhall wee thus
+<note n="w" place="margin">Deut <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6.</note> 
+               <hi>requite the Lord?.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:113128:17"/>
+Beſides,<note place="margin">We ſhould con<g ref="char:EOLhyphen"/>ſider what great things God hath done for us by this Parlia<g ref="char:EOLhyphen"/>ment?</note> Conſider what God hath done for us<g ref="char:punc">▪</g> wee were ſold
+to our enemies, to be deſtroyed, but God hath ſaved us; wee were
+in extreme bondage, but God delivered us: wee cryed for a Par<g ref="char:EOLhyphen"/>liament,
+and God hath given us a Parliament, and not onely a
+Parliament (as our enemies plotted and hoped) to deſtroy us, but
+a delivering Parliament, a Religious Reforming Parliament; for
+(ſo indeed it is) the bent and ſenſe of this Parliament, is to ſet us
+free, and to reforme things amiſſe both in the Church and in the
+Common-wealth: God hath given us a Parliament miraculouſly,
+like <hi>Moſes,</hi> to give us good Lawes; and God hath given to them
+as to <hi>Moſes,</hi> a holy Aſſembly, like an <hi>Maron,</hi> to helpe forward the
+worke of God. What could wee have asked of God, that God
+hath not given unto us? Wee cryed out againſt the encreaſe and
+growth of Idolatrie among us, and God hath taken it away: wee
+cryed out againſt Superſtition, and a Popiſh Liturgie, and God
+hath freed us of all: wee cryed for freedome in the uſe of holy
+Ordinances, and God gave it us.</p>
+            <p>Many other burthens and preſſures, under which wee lay,
+God hath freed us from,<note place="margin">It is our owne fault that we want any thing.</note> by this Parliament; if yet wee lye
+under any preſſure, it is our owne faults, becauſe wee are un<g ref="char:EOLhyphen"/>thankfull
+to God for all hee hath done, and remaine ſtill im<g ref="char:EOLhyphen"/>penitent,
+under ſuch perſonall ſinnes for which God was, and
+is ſtill angry with us: ſo that indeed, and in truth, wee have
+nothing to complaine of, but of our ſinnes,<note n="x" place="margin">Jer. 5. 25.</note> 
+               <hi>which have
+with-holden good things from us;</hi> and trouble the Parliament in
+the progreſſe of the worke, of our full deliverance. Wee all deſire
+peace, to enjoy the bleſſings wee have, and yet wee contend and
+warre one againſt another; but wee ſeeke not for gracious hearts,
+to be humble, and thankfull to God for what hee hath done for
+us: but wee, like <hi>Jeſurum,</hi>
+               <note n="y" place="margin">Deut. 32. 15.</note> 
+               <hi>wax fat, and kick.</hi> God hath
+given us more then wee could aske, and wee grow wanton; wee
+<hi>loath the food of Angels,</hi> the<note n="z" place="margin">Pſal. 78. 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Manna that i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> given us from
+Heaven,</hi> and <hi>lightly eſteeme</hi> of (Chriſt) <hi>the</hi>
+               <note n="a" place="margin">Exod. 6. 14.</note> 
+               <hi>Rock of our Sal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>With how much leſſe would wee have beene contented within
+the ſpace of ſeven yeares paſt, then wee now enjoy? (except the
+Warres, which our ſinnes hold up) and yet wee are leſſe contented
+now, then when wee had not the twentieth part of that wee now
+enjoy; and might have yet more, if wee would humbly aske it of
+<pb n="27" facs="tcp:113128:17"/>
+God, or accept it from God: but wee will doe neither, ſo ingrate
+and evill wee are. Wee complaine of oppreſſion, and yet wee en<g ref="char:EOLhyphen"/>creaſe
+it, by our contention and quarrels: wee would have peace,
+but wee encreaſe ſtrife: wee would have the worſhip of God
+ſetled, but wee oppoſe God in the way and meanes that hee hath
+appointed to ſettle it: wee will not have <hi>Moſes</hi> nor <hi>Aaron</hi> to be
+any Rule to us, wee ſay, <hi>they take too much upon them,</hi>
+               <note n="b" place="margin">Num. 16. 3.</note> 
+               <hi>and all the
+Lords people are holy,</hi> &amp;c.</p>
+            <p>Nothing will content us,<note place="margin">We ſeek to bring Gods word to our fancies, not to have our judgements guided by Gods word.</note> but what wee our ſelves (or rather
+our fancies) ſhall chooſe; wee will wear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Coat but what is
+ſhap'd by our ſelves, nor will wee forſake any ſinne, but what
+wee our ſelves will call ſinne: every one will have his owne
+way, to worſhip God; and every one will have his owne
+ſinne, to dishonour God; what is this but confuſion? ſhall we call
+this a building of God a houſe? when one calls for a Stone, another
+brings him a Mattock; when another wants Mortar, a Maule is
+put into his hand; one cals for Bricks, and an Axe is given to him;
+one builds<g ref="char:punc">▪</g> and another beats downe; but<note n="c" place="margin">Jer. 8. 6.</note> 
+               <hi>no man repents of his
+wickedneſſe, ſaying what have I done?</hi> We ſtrive one to goe before
+another in places of honour, but we will neither goe before, nor
+follow after in the way of honourable humiliation:<note place="margin">All ſinnes doe raigne in ſome men at this day and are increa<g ref="char:EOLhyphen"/>ſed.</note> where is one
+man among a thouſand through all the Families of <hi>England,</hi> that is
+a reall truely reformed man? Is not the proud as proud as ever?
+witneſſe gay clothes, rich attire, ſtrange faſhions, patcht faces, curld
+haire, loftie carriage, &amp;c. Is the covetous man leſſe covetous?
+doth he not adore his bags as much as ever? over-reach in bargai<g ref="char:EOLhyphen"/>ning,
+ſpare more then is right, and everie way<note n="d" place="margin">Jer. 15. 5.</note> 
+               <hi>ſeeke great things
+for himſelf:</hi> Is not the ambitious man as greedie of honours as ever
+he was? doth he not ſeek honours and greatneſſe by vitious wayes?
+and deſpiſe him that ſhall be ſaid to be his equall? I would <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God
+it were not thus; Conſider it, Is the oppreſſor leſſe cruell? or is he
+not more violent in oppreſſing then ever? doe not oppreſſors every
+where, in everie place, of all degrees,<note n="e" place="margin">Eſay 3. 15.</note> 
+               <hi>grinde the faces of the poore
+without mercie, and beat the people to peeces?</hi> I know it hath beene ſaid
+by ſome<g ref="char:punc">▪</g> 
+               <hi>get their money, and let them ſtarve or hang, &amp;c.</hi> I
+wiſh men could prove me a lyer in this thing, and that there were
+no ſuch, oppreſſor: Is the voluptuous man leſſe given to his appe<g ref="char:EOLhyphen"/>tite,
+and to all ſinfull pleaſures, or leſſe profuſe in unneceſſarie va<g ref="char:EOLhyphen"/>nities?
+What pleaſure is there that he forbeareth, that he is able to
+<pb n="26" facs="tcp:113128:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:113128:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:113128:19"/>
+compaſſe? wherein doth he reſtraine himſelfe (except for want of
+money?) doth he not ſeeke after all varieties, after everie kick<g ref="char:EOLhyphen"/>ſhaw,
+and toy, and the ver<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fulneſſe of <hi>Sodome?</hi> In like manner,
+doth the drunkard drinke fewer hea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths? goe more nights ſober to
+bed? doth he ſweare fewer Oathes? or uſe leſſe obſcenitie then he
+was wont? Nor is the luke-warme <hi>Formaliſt</hi> more zealous, but ſtill
+the ſame that he ever was, except ſuch zeale as is by the Apoſtle
+condemned,<note n="f" place="margin">Rom. 10. 1.</note> 
+               <hi>that is not according to knowledge;</hi> or rather, are not
+men of knowledge, ſuch as have formerly been zealous for God in a
+right way,<note n="g" place="margin">Rev. 2. 4.</note> 
+               <hi>Fallen from their first love?</hi> Are there not many ſuch,
+that ſeeke to bring in new and ſtrange doctrines into the Church?
+like the doctrine of<note n="h" place="margin">Rev. 2. 14. 15.</note> 
+               <hi>Balaam,</hi> and the <hi>Nicholaitans,</hi> and <hi>are a
+ſtumbling block to Gods people;</hi> and ſay of themſelves; like ſome in
+the Prophet <hi>Eſay's</hi> time,<note n="i" place="margin">Eſay 65. 5</note> 
+               <hi>Come not neere to me, for I am holier
+then thou.</hi>
+            </p>
+            <p>It is true, everie one will ſay ſinne aboundeth, and it is for ſinne
+that God hath layd all this upon us; but we looke at other mens
+ſinnes,<note place="margin">Men looke at the ſinnes of others, not at their owne.</note> not our owne: either ſpirituall pride or carnall ſecuritie
+hath blinded the eyes of the moſt of all <hi>Engliſh</hi> people, ſo that few
+lay his owne ſinne to heart, or at leaſt afflict his ſoule, becauſe by
+his ſinne he hath dishonoured God: but my Chriſtian brethren, if
+we would have all cleane, we muſt everie one ſweep his owne door,
+everic one muſt cleanſe his owne heart.</p>
+            <p>Then be exhorted, everie one of all degrees, from the Prince
+to the Peaſant;<note place="margin">Exhortation to repentance, and to refor<g ref="char:EOLhyphen"/>mation.</note> high and low, rich and poore, &amp; If you love
+your lives, if you deſire Gods favour, and bleſſings to your ſelves;
+If you love your Families, if you love your children, if you have
+any love to the Kingdome, or to the Church of God; yea, if you
+love your owne ſoules, or love Jeſus Chriſt, that hath bought
+you by his owne blood,<note n="k" place="margin">Lam. 3. 40</note> 
+               <hi>Search and try your wayes;</hi>
+               <note n="l" place="margin">2 Cor. 13. 5.</note> 
+               <hi>examine
+your owne ſins, and turn with all your heart unto God:</hi> Reſolve everie
+one for himſelf, and for his Family, as good <hi>Joſhuah</hi> did;<note n="m" place="margin">Ioſh. 24. 15.</note> 
+               <hi>Chuſe ye</hi>
+(ſaith he) <hi>whom yee will ſerve, but as for me and my houſe, we will
+ſerve the Lord:</hi> Except we thus doe, and everie one of us mend
+one, we may all periſh as the <hi>Iſraelites</hi> did; and God will fayſe a
+people to himſelfe out of our duſt: let no man looke who ſhall be<g ref="char:EOLhyphen"/>ginne,
+but rather everie man ſtrive who ſhall be firſt, that he
+may bee an example to others, and hee ſhall have greateſt
+honour.</p>
+            <p>
+               <pb n="29" facs="tcp:113128:19"/>
+Beſides,<note place="margin">Exhortation to liberall contri<g ref="char:EOLhyphen"/>bution God loo<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> let every man with all diligence helpe forward Gods
+work by liberal &amp; large contribution, according as God hath made
+him able: the enemy; <hi>wicked men have drawn their ſword to ſtar the righ<g ref="char:EOLhyphen"/>teous,</hi>
+               <note n="n" place="margin">P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 7. 1.</note> and have taken counſell together <hi>againſt the Lord Chriſt:</hi>
+               <note n="o" place="margin">Pſal. 2. 2.</note> Now God requireth a help with hand and eſtate: <hi>Mero<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was
+curſed becauſe <hi>they helped not.</hi>
+               <note n="p" place="margin">Iudg. <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> He that is not now for Chriſt, muſt
+expect the ſame reward with them <hi>that are againſt Chriſt:</hi>
+               <note n="q" place="margin">Math. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> be not
+di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>con<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ged at any miſcarriages, <hi>it is God that doth all:</hi> doe thou
+what God would have thee, and leave the iſſue to God: give freely,
+for that onely is acceptable: God <hi>delighteth in a cheer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll give<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <note n="r" place="margin">2 Cor. 9. 7.</note> but God accepteth no forced duty<g ref="char:punc">▪</g> 
+               <hi>obedience is more acceptable
+the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rifice,</hi>
+               <note n="ſ" place="margin">1 Sam. 15. 22.</note> Conſider, that when thoſe ſons of <hi>Bel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al</hi> of the
+tribe of <hi>Ben<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> that wrought villany in <hi>Iſrael,</hi> were refuſed to be
+given up to the uſtice of the Law, the other tribes of <hi>Iſrael</hi> made
+war againſt <hi>Benjamin</hi> (and by Gods own appointment, as you may
+fee in the ſtory,<note n="t" place="margin">Iudg. 19. &amp; Iudg 20. &amp;c.</note> all the tribe of <hi>Rev<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mine</hi> defended thoſe wicked
+men and came ont to batted, gave their brethren two great defeats:
+but at the third, they were wholly deſtroyed. And you ſhall ſee that
+after the Tribes of <hi>Iſrael</hi> returned from the battel, they made en<g ref="char:EOLhyphen"/>quiry
+who of all the Tribes were not there to aſſiſt them, and they
+found that none of <hi>Iabiſh, Giliad</hi> were there, and for that neglect
+ſent and deſtroyed them all.<note n="u" place="margin">Iudg. 20. 9, 10.</note> Alſo you ſhall ſee that for this ve<g ref="char:EOLhyphen"/>ry
+neglect in <hi>Nabal,</hi>
+               <note place="margin">Read the ſtory.</note> refuſing to rel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve <hi>David</hi> (in the ſame caſe that
+ours is at this day) he was by the hand of God ſtruck with death, &amp;
+God gave to <hi>David</hi> his Wife and all his ſubſtance.<note n="w" place="margin">Sam. 25. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>And as every one muſt give freely, ſo let all thoſe that are Colle<g ref="char:EOLhyphen"/>ctors
+and receivers of moneyes, take heed that they deale truly and
+juſtly,<note place="margin">He that keepes any thing that is given, is a r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bber of God.</note> without fraud, and keep nothing backe, for it is the Lords
+offering; will a man rob God? <hi>yet ye have robbed me in offering, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+the Lord:</hi>
+               <note n="x" place="margin">Mal. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 8.</note> but conſider what followeth? <hi>ye are curſed with a curſe,
+for ye have robbed me, even this whole Nation.</hi>
+               <note n="y" place="margin">Verſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Annanias</hi> &amp; <hi>Sa<g ref="char:EOLhyphen"/>phirah</hi>
+were both ſtricken dead for keeping backe but part of that
+which themſelves intended to give:<note n="z" place="margin">Acts 5. 3.</note> and ſhall it not faire much
+worſe with them that keep back that which others give to God and
+the Kingdome. Let the covetous man alſo leave his covetouſneſſe
+and become liberall, and give to them that want: Let the oppreſſor
+take heed that he oppreſſe not: eſpecially <hi>oppreſſe not the affl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted in
+the gate, for God will plead their cauſe, and ſpoyle the ſoule of thoſe that
+ſpoyled them.</hi>
+               <note n="a" place="margin">Prov. 22. 23.</note> Oppreſſion <hi>is a crying ſin,</hi> and God will heare it.
+<note n="b" place="margin">Iam. 5. 4.</note> 
+               <hi>Oppreſſion</hi> (ſaith the wiſe man) <hi>maketh a wiſe man mad,</hi>
+               <note n="c" place="margin">Eccl. 7. 7.</note> it drives
+<pb n="28" facs="tcp:113128:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:113128:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="30" facs="tcp:113128:21"/>
+him violently to a damning ſinne, and then it torments the wound is
+moſt intollerable, where the ſenſe is moſt perfect, therefore let every
+wiſe man abhor it. A wiſe man that will be an oppreſſor, deſtroy<g ref="char:EOLhyphen"/>eth
+his wiſedome and himſelfe: Nor let the ambitious man ſeek af<g ref="char:EOLhyphen"/>ter
+honour, but ſtrive to be humble, ſeeke God and his glory, and
+<hi>God will make him honourable.</hi>
+               <note n="d" place="margin">1 Sam. 2. 30.</note> Let all thoſe that are ſouldiers be
+carefull to follow the precept given them by Ieſus Chriſt. <hi>Do vio<g ref="char:EOLhyphen"/>lence
+to no man, neither accuſe any falſely, and be content with your wa<g ref="char:EOLhyphen"/>ges.</hi>
+               <note n="e" place="margin">Lu. 3. 14</note> In like manner let them that are ſeduced in judgment ſeek
+peace and unity, and follow the exhortation of the Apoſtle: <hi>Speake
+all the ſame thing, that there may be no diviſion among you, but that ye
+be perfectly joyned together in the ſame minde and in the ſame judgment</hi>
+               <note n="f" place="margin">1 Cor. 1. 10.</note> And let all that are injured or oppreſſed, conſider the neceſſity
+of the times, and multiplicity of great buſineſſes, and patiently bear
+all that God layeth upon them, and commit the revenge of every
+injury done by men to God<note n="g" place="margin">Deut. 32. 35.</note> who will not deſpiſe us: Only let
+the injured or oppreſſed complain in righteouſneſſe, &amp; juſtly to the
+<hi>Parliament,</hi>
+               <note place="margin">Thoſe that are unjuſtly injured may and ought to complain to the Parlia<g ref="char:EOLhyphen"/>ment.</note> of thoſe that unjuſtly injure them (and no doubt) the
+Parliament wil right them, for they are appointed by God to puniſh
+all injuſtice, &amp; will aſſuredly in due time, both chaſtiſe the oppreſ<g ref="char:EOLhyphen"/>ſor,
+and relieve the oppreſſed: Therefore murmur not, nor (as ma<g ref="char:EOLhyphen"/>ny
+doe) repine that the Parliament doth no more, and that things
+go on ſo ſlowly, but rather admire (for ſo indeed we may all) that
+ſo muth is done as is at this day, and that ſo great a progreſſe is
+made to Reformation, and bleſſe God for it. Conſider the mighty
+and many oppoſitions they every day meete with, both open and
+ſecret.</p>
+            <p>Now in the laſt place,<note place="margin">Exhortation to keep the Cove<g ref="char:EOLhyphen"/>nant, elſe wee ſhal provoke God to more &amp; greater wrath.</note> let me entreat (or rather beſeech) all you
+my Brethren, that have entered into the League and Covenant in
+the preſence of God, with your hands lift up to heaven, that you
+will ſeriouſly looke over your Covenant often, and conſider to what
+you have bound your ſelves, and take heed leſt you neglect any duty
+promiſed, or doe any act contrary to the Covenant. For God, who
+is faithfull in all his Covenants, expects faithfull performance from
+us:<note place="margin">Examples.</note> God is as juſt as he is mercifull, if he have not performance, hee
+will take the forfiture. <hi>Solomon</hi> by the breach of his Covenant with
+God, loſt ten Tribes, <hi>which God rent from his Kingdome.</hi>
+               <note n="h" place="margin">1 Ki. 10. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Saul</hi>
+brake Covenant with the <hi>Gibeonites,</hi> and God ſent a <hi>Famine in the
+Land</hi> for that ſin.<note n="i" place="margin">2 Sam. 21. 1.</note> 
+               <hi>Curſed</hi> (ſaith the Lord) <hi>be the man that obey<g ref="char:EOLhyphen"/>eth
+not the voyce of this Covenant:</hi>
+               <note n="k" place="margin">Ier. 11. 3.</note> 
+               <hi>Thoſe that ſweare falſely in
+<pb n="31" facs="tcp:113128:21"/>
+making a Covenant do cauſe jvdgment to ſpring up as Hem. locke in the
+ſurrows of the field.</hi>
+               <note n="l" place="margin">Hoſ. 10. 4.</note> God hath threatned to ſend <hi>the ſword to a<g ref="char:EOLhyphen"/>venge
+the quarrel of his Covenant, &amp; to ſend peſtilence and famine.</hi>
+               <note n="m" place="margin">Levit. 26. 25, 26.</note>
+            </p>
+            <p>Conſider, wee have entered into a brotherly Covenant with our
+neighbouring Kingdom of <hi>Scotland,</hi> and they with us, and wee are
+now become Brethren; not enemies, (as in times paſt) this is a great
+mercy from heaven: We have cauſe to bleſſe God for them, &amp; they
+to bleſſe God for us: And if we keepe our Covenant one with the o<g ref="char:EOLhyphen"/>ther,
+God will bleſſe both us and them to all poſterities: <hi>But if wee
+remember not our brotherly Covenant, God will kindle a fire among us,</hi>
+               <note n="n" place="margin">Amos 1.</note> and bring judgments upon us to devour us; therefore take heed
+of harkning to (much leſſe believing) any falſe calumnious reports,
+(raiſed by a ſelf-ſeeking faction) againſt our Brethren of that King<g ref="char:EOLhyphen"/>dome;
+we know there is a Hereditary, or inherent emulation be<g ref="char:EOLhyphen"/>tween
+ſome Counties of England, and the Scottiſh Nation, who
+are yet ignorant of the bleſſing by ſo happy a union: and wee know
+there are particular contentious men for ſelf ends, are uncharitable
+in their judgment and cenſures of them (our Brethren) &amp; of their
+actions: They ſeek to ſtir up ſtrife; Let their ſin lye upon their owne
+heads, but let not us partake with them in their ſinne, but as Chri<g ref="char:EOLhyphen"/>ſtians
+admoniſh them and reprove them with meekeneſſe. <hi>A wrath<g ref="char:EOLhyphen"/>full
+man</hi> (ſaith <hi>Solomon) ſtirreth up ſtrife.</hi>
+               <note n="o" place="margin">Pro. 15. 18.</note> 
+               <hi>And as coales are to bur<g ref="char:EOLhyphen"/>ning
+coales, and wood to fire, ſo is a contentious man to kindle ſtrife.</hi>
+               <note n="q" place="margin">Prov. 26. 21.</note>
+That ſaying of <hi>Solomon</hi> is worth conſideration: <hi>A froward man</hi>
+(ſaith he) <hi>ſoweth ſtrife and diviſion:</hi> That is, he plotteth to make it
+grow to a crop; in ſeeming to caſt it away, he maketh it increaſe
+ſeven times more and greater: <hi>And a whiſperer,</hi> ſaith he, <hi>ſeperateth
+chiefe friends.</hi> It is a dangerous ſin to break a Covenant with a hea<g ref="char:EOLhyphen"/>then
+man, much greater to breake with a Brother; Read for this
+purpoſe, <hi>Ier.</hi> 34. 18, 19, 20. verſes. <hi>And I will give thoſe men that
+have broken my Covenant, and have not kept the words of the Covenant,
+which they had made before me, when they cut the Calfe in twaine, and
+paſſed between the parts thereof: The Princes of Iudah and the Princes
+of Ieruſalem, the Euruches, and the Prieſts, and all the people of the
+Land, which paſſed between the parts of the Calfe: I will even give them
+into the hands of their enemies and into the hands of them that ſeek their
+l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe: and their dead bodies ſhall be for meate unto the foules of the hea<g ref="char:EOLhyphen"/>ven
+and to the beaſts of the earth.</hi>
+            </p>
+            <p>And to them that have not yet entered into Covenant, I ſay it is
+our duty to doe it: God and the Kingdome <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all upon you to doe it,
+<pb n="32" facs="tcp:113128:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:113128:23"/>
+it is your danger that you do it not, and may prove your ruine that
+you ſtand againſt it. Therefore (as I love your ſoules) I exhort you
+to come in ſpecility: that God requireth it of you; ſtead <hi>Deut.</hi>
+Chap. 26. verſe 10. 11. 12, &amp;c. I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you with<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to joyne your
+ſelves with the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of <hi>Iacob, ſhame ſhall cover you,</hi> and you are in
+danger to be out off for ever; Read, <hi>Chadiah,</hi> 10, 11, 12, 13. verſes.</p>
+            <p>Conſider what I have ſaid <hi>and the Lord give every m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n underſtan<g ref="char:EOLhyphen"/>ding
+in all things,</hi>
+               <note n="q" place="margin">2 Tim. 2.</note> And incline their hearts to walke humbly, and
+with perfect hearts before God, not ſeeking their own ends, nor
+doing their own works: but that we may all ſeeke Gods glory, and
+doe the work of God, as faithful ſervants to him, ſubmitting to his
+will againſt our own <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgments, and deying our ſelves, that wee
+may give all to God, from whom we have all, and wait with pati<g ref="char:EOLhyphen"/>ence
+Gods time. If thus we do, let me periſh if God deſtroy not all
+our enemies, and make the deliverance of this Kingdom moſt glori<g ref="char:EOLhyphen"/>ous,
+and us of one minde and one heart: That wee the Brethren of
+both Kingdomes ſhall be one, as we have Covenanted one with a<g ref="char:EOLhyphen"/>nother.
+And as the Lord <hi>Iehovah</hi> hath promiſed: <hi>I will give them
+one heart and one way that they may feare me for euer, for the good of
+them, and for their Childr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n after them: And I will make an everla<g ref="char:EOLhyphen"/>ſting
+Covenant with them, &amp;c.</hi> Which the Lord grant, for the Lord
+Chriſt his ſake.<note n="r" place="margin">Ier. 32. 9<g ref="char:punc">▪</g> 10.</note>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
